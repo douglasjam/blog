@@ -8,10 +8,7 @@
 # Site settings
 title: douglasjam
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Programador, mineiro e atualmente morando na Alemanha. Neste blog postarei algumas coisas legais que descubro no dia a dia, não apenas vinculado à programação, mas também sobre outros temas que são do meu cotidiano. Entre estes posts alguns são apenas para recordar no futuro sobre experiências ou aprendizados, por tanto não se sinta perdido caso não entenda algo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.douglasjam.com.br" # the base hostname & protocol for your site
 twitter_username: douglasjam
