@@ -11,7 +11,7 @@ dsq_thread_id:
 categories:
   - Alemanha
 ---
-<figure id="attachment_122" style="width: 300px" class="wp-caption alignright"><a href="http://douglasjam.com.br/assets/2016/01/bicycle.jpg" rel="attachment wp-att-122"><img class="wp-image-122 size-medium" src="http://douglasjam.com.br/assets/2016/01/bicycle-300x169.jpg" alt="Minha ex-bicicleta" width="300" height="169" srcset="http://www.douglasjam.com.br/assets/2016/01/bicycle-300x169.jpg 300w, http://www.douglasjam.com.br/assets/2016/01/bicycle-768x432.jpg 768w, http://www.douglasjam.com.br/assets/2016/01/bicycle-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Minha ex-bicicleta</figcaption></figure>
+<figure id="attachment_122" style="width: 300px" class="wp-caption alignright"><a href="http:///assets/2016/01/bicycle.jpg" rel="attachment wp-att-122"><img class="wp-image-122 size-medium" src="http:///assets/2016/01/bicycle-300x169.jpg" alt="Minha ex-bicicleta" width="300" height="169" srcset="http:///assets/2016/01/bicycle-300x169.jpg 300w, http:///assets/2016/01/bicycle-768x432.jpg 768w, http:///assets/2016/01/bicycle-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Minha ex-bicicleta</figcaption></figure>
 
 Assim que me mudei para cá, decidi não ter mais carro, além de ser uma economia, seria uma transformação nos meus hábitos do Brasil, onde eu utilizava o carro ate para ir ao Shopping que ficava a 2km da minha casa, um dos fatores para fazer isso aqui e não no brasil, e por que o transporte publico aqui e muito bom, cobrindo praticamente a cidade inteira de metro, os ônibus são de qualidade e existem bastante ciclovias, onde estas são bem sinalizadas e respeitadas.
 
