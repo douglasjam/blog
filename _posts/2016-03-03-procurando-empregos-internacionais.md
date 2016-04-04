@@ -9,23 +9,23 @@ permalink: http://douglasjam.com.br/2016/03/03/procurando-empregos-internacionai
 episode_type:
   - audio
 audio_file:
-  - 
+  -
 duration:
-  - 
+  -
 filesize:
-  - 
+  -
 date_recorded:
-  - 
+  -
 explicit:
-  - 
+  -
 block:
-  - 
+  -
 categories:
   - Dicas
 ---
 Depois que consegui imigrar para a Alemanha, alguns amigos me perguntaram como eu fiz para conseguir um emprego fora, quais sites eu utilizei e se eu tinha alguma dica, vou tentar descrever nesse _post_ uma pouco da minha experiência, mas vale ressaltar, que o que digo aqui e com base no que aprendi, não existe uma receita para isso.<!--more-->
 
-**1- Idioma:<a href="http://www.douglasjam.com.br/wp-content/uploads/2016/03/workabroad.jpg" rel="attachment wp-att-172"><img class="alignright size-full wp-image-172" src="http://www.douglasjam.com.br/wp-content/uploads/2016/03/workabroad.jpg" alt="workabroad" width="434" height="272" /></a>**
+**1- Idioma:<a href="http://www.douglasjam.com.br/assets/2016/03/workabroad.jpg" rel="attachment wp-att-172"><img class="alignright size-full wp-image-172" src="http://www.douglasjam.com.br/assets/2016/03/workabroad.jpg" alt="workabroad" width="434" height="272" /></a>**
 
 O primeiro passo que você tem que ver e o idioma, se você terá condições de se comunicar no pais que deseja, dependendo do pais, como no meu caso, que imigrei para a Alemanha, eu não precisei falar a alemão, pois a empresa a qual me candidatei tinha como idioma o inglês, e o a população aqui em sua grande maioria consegue se comunicar em inglês, porem, tenha em mente o ideal e que você fale o idioma do pais que mora para que se socialize melhor.
 
@@ -46,13 +46,13 @@ Existem inúmeros meios de se candidatar, muitas empresas utilizam o próprio we
 Segue abaixo uma lista dos principais websites que utilizei.
 
 <a href="http://www.jobsintech.io" target="_blank">www.jobsintech.io</a>: Um recurso interessante e que tem a opção de filtrar por empresas que oferecem o sponsor do visto.
-  
+
 <a href="http://www.indeed.com" target="_blank">www.indeed.com</a> / <a href="http://www.indeed.de" target="_blank">www.indeed.de</a> / <a href="http://www.indeed.co.uk" target="_blank">www.indeed.co.uk</a>: mude o domínio conforme o pais que esteja procurando, este e um indexador, então procure por palavras chaves, como por exemplo: php, java, english e etc.
-  
+
 <a href="http://www.linkedin.com" target="_blank">www.linkedin.com</a>: Algumas empresas publicam vagas em seus perfis, outras em grupos do tema especifico como por exemplo, PHP Europe. Outra dica interessante e procurar adicionar pessoas com o cargo de _recruiter_ e acompanhar as vagas que eles pedem e ate entrar em contato com eles.
-  
+
 <a href="http://www.xing.com" target="_blank">www.xing.com</a>: Basicamente o concorrente do Linkedin na Europa.
-  
+
 <a href="http://www.monster.com" target="_blank">www.monster.com</a>: Outro site do mesmo género do Linkedin.
 
 <a href="http://www.google.com" target="_blank">www.google.com</a>: =D o indexador mais usado, varie as palavras chaves como, php sponsor germany, job java ireland e etc.

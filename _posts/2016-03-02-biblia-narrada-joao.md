@@ -9,17 +9,17 @@ permalink: http://douglasjam.com.br/2016/03/02/biblia-narrada-joao/
 episode_type:
   - audio
 audio_file:
-  - 
+  -
 duration:
-  - 
+  -
 filesize:
-  - 
+  -
 date_recorded:
-  - 
+  -
 explicit:
-  - 
+  -
 block:
-  - 
+  -
 dsq_thread_id:
   - 4627405155
 categories:
@@ -38,8 +38,8 @@ Com o tempo a partir do meu aperfeiçoamento, irei substituindo as gravações i
 <div class="cue-playlist-container">
   <div class="cue-playlist" itemscope itemtype="http://schema.org/MusicPlaylist">
     <meta itemprop="numTracks" content="3" />
-    <audio src="http://douglasjam.com.br/wp-content/uploads/2016/03/joao-1.mp3" controls preload="none" class="cue-audio" style="width: 100%; height: auto"></audio> 
-    
+    <audio src="http://douglasjam.com.br/assets/2016/03/joao-1.mp3" controls preload="none" class="cue-audio" style="width: 100%; height: auto"></audio>
+
     <ol class="cue-tracks">
       <li class="cue-track" itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">
         <span class="cue-track-details cue-track-cell"> <span class="cue-track-title" itemprop="name">João - Capítulo 1</span> <span class="cue-track-artist" itemprop="byArtist">Douglas Moreira</span> </span> <span class="cue-track-length cue-track-cell">7:19</span>

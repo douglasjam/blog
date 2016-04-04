@@ -11,14 +11,14 @@ dsq_thread_id:
 categories:
   - Alemanha
 ---
-<figure id="attachment_122" style="width: 300px" class="wp-caption alignright"><a href="http://douglasjam.com.br/wp-content/uploads/2016/01/bicycle.jpg" rel="attachment wp-att-122"><img class="wp-image-122 size-medium" src="http://douglasjam.com.br/wp-content/uploads/2016/01/bicycle-300x169.jpg" alt="Minha ex-bicicleta" width="300" height="169" srcset="http://www.douglasjam.com.br/wp-content/uploads/2016/01/bicycle-300x169.jpg 300w, http://www.douglasjam.com.br/wp-content/uploads/2016/01/bicycle-768x432.jpg 768w, http://www.douglasjam.com.br/wp-content/uploads/2016/01/bicycle-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Minha ex-bicicleta</figcaption></figure> 
+<figure id="attachment_122" style="width: 300px" class="wp-caption alignright"><a href="http://douglasjam.com.br/assets/2016/01/bicycle.jpg" rel="attachment wp-att-122"><img class="wp-image-122 size-medium" src="http://douglasjam.com.br/assets/2016/01/bicycle-300x169.jpg" alt="Minha ex-bicicleta" width="300" height="169" srcset="http://www.douglasjam.com.br/assets/2016/01/bicycle-300x169.jpg 300w, http://www.douglasjam.com.br/assets/2016/01/bicycle-768x432.jpg 768w, http://www.douglasjam.com.br/assets/2016/01/bicycle-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Minha ex-bicicleta</figcaption></figure>
 
 Assim que me mudei para cá, decidi não ter mais carro, além de ser uma economia, seria uma transformação nos meus hábitos do Brasil, onde eu utilizava o carro ate para ir ao Shopping que ficava a 2km da minha casa, um dos fatores para fazer isso aqui e não no brasil, e por que o transporte publico aqui e muito bom, cobrindo praticamente a cidade inteira de metro, os ônibus são de qualidade e existem bastante ciclovias, onde estas são bem sinalizadas e respeitadas.
 
 <!--more-->Acho que a quantidade de bicicletas não é igual a Holanda, porém tem uma quantidade considerável, pelo menos no tempo que estou aqui, talvez no verão aumente esse número.
 
 
-  
+
 Outra coisa interessante, é que, pelo menos eu achei que as bicicletas aqui são muito caras. No Brasil você consegue arrumar bicicleta de adulto, 18 marchas, simples por uns R$ 250.00, o que convertendo se tem menos de 80 euros. Aqui as bicicletas simples começam em torno de 200 euros, e convertendo de volta em reais (o que não e correto) temos 800 reais, dinheiro o qual compramos uma bicicleta semiprofissional. Não sei por que é caro assim, perguntei a algumas pessoas alemãs e falaram que é normal esse preço, já pessoas de outros países falaram que é bem caro, como por exemplo, um amigo meu de Portugal, disse que lá você paga em torno de 100 euros ou menos por uma simples. Talvez tenha algum imposto alto de modo a investir nas ciclovias. Porém uma coisa que não posso discutir é apesar de ser a simples, a qualidade e bem melhor do que as produzidas no Brasil, alguns detalhes como a qualidade das pecas e etc.
 
 Aqui também tem algumas leis e regras para se ter uma bicicleta.
