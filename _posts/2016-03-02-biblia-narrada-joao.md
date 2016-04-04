@@ -38,7 +38,7 @@ Com o tempo a partir do meu aperfeiçoamento, irei substituindo as gravações i
 <div class="cue-playlist-container">
   <div class="cue-playlist" itemscope itemtype="http://schema.org/MusicPlaylist">
     <meta itemprop="numTracks" content="3" />
-    <audio src="http:///assets/2016/03/joao-1.mp3" controls preload="none" class="cue-audio" style="width: 100%; height: auto"></audio>
+    <audio src="/assets/2016/03/joao-1.mp3" controls preload="none" class="cue-audio" style="width: 100%; height: auto"></audio>
 
     <ol class="cue-tracks">
       <li class="cue-track" itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">
