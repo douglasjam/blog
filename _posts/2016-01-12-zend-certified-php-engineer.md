@@ -36,7 +36,7 @@ Após esse um mês de estudo, eu havia terminado o livro e praticado vários sim
 
 <figure>
 	<img align="right" alt="ZCE Practice Test Exame" src="{{ site.url }}/resources/img/Screen-Shot-2016-01-12-at-11.32.48.png" />
-	<figcaption>Livro ZCE Practice Test Exame</figcaption>
+	<figcaption>Aplicativo ZCE Practice Test Exame</figcaption>
 </figure>
 
 A prova e composta de 70 questões, para serem realizadas em 90 minutos. Onde a variedade das respostas podia ser, uma resposta correta, mais de uma resposta correta e texto aberto, se me lembro era apenas campos onde se respondia uma palavra, como por exemplo o nome de uma função, ou o resultado.
