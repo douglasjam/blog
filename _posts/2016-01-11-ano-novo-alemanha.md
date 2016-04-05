@@ -18,7 +18,7 @@ Por volta das 22:00 fomos para rua, procurar um lugar para ver os fogos, no prim
 
 Logo após para fugir da agitação fomos para o porto, onde acreditávamos que teria uma melhor vista e exibição de fogos. Estava mais calmo, porem estava tão cheio que ficou difícil achar um lugar com vista livre para os fogos. Como os fogos não cessavam desde a tarde, não tinha aquele silencio e contagem regressiva, assim que deu meia noite, os navios começaram a buzinar e a quantidade de fogos aumentou um pouco, muita gente comemorando, tirando fotos e selfies e brindando.<figure id="attachment_60" style="width: 300px" class="wp-caption alignright">
 
-<img align="right" alt="Pessoal soltando fogos em Hamburgo" src="{{ site.url }}/resources/img/guerrahamburg.jpg" />
+<img align="right" alt="Pessoal soltando fogos em Hamburgo" src="{{ site.url }}/resources/img/guerrahamburg.png" />
 
 Logo após os fogos, uns 15 minutos depois, o pessoal começou a ir embora, pois não era o melhor lugar para ficar devido ao frio e a bagunça eminente. A multidão foi toda em direção ao metro o qual se formou uma fila enorme, bem como estava superlotado por dentro. Haviam algumas pessoas bêbadas enchendo o saco, porem nada demais.
 

@@ -6,21 +6,19 @@ categories:
 ---
 Neste feriado prolongado do final do ano de 2015 resolvi dar uma passeada, e por ser inverno, cogitei ir para Franca, pois, outros lugares gostaria de deixar para ver com sol e flores, como por exemplo a Holanda e Espanha.<figure id="attachment_77" style="width: 300px" class="wp-caption alignright">
 
-[<img class="wp-image-77 size-medium" src="/resources/img/fr_eifel-300x169.jpg" alt="Torre Eiffel" width="300" height="169" srcset="/assets/2016/01/fr_eifel-300x169.jpg 300w, http:///assets/2016/01/fr_eifel-768x432.jpg 768w, http:///assets/2016/01/fr_eifel-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http:///assets/2016/01/fr_eifel.jpg)<figcaption class="wp-caption-text">Torre Eiffel</figcaption></figure>
+<img align="right" alt="Torre Eiffel" src="{{ site.url }}/resources/img/fr_eifel.jpg" />
 
 Como o feriado era bem longo, do dia 24 de dezembro à 04 de janeiro, 11 dias, eu tinha que decidir quantos dias iria ficar por lá,acabei optando por 7 dias, a partir disso fiz alguns trajetos, porem as cidades mais populares da Franca ficam bem distantes entre si, com percursos de ate 8h de carro, e como meu ponto de partida e saída seria Paris, acabei focando apenas em Paris.
 
 Para a passagem de avião, utilizei o SkyScanner para buscar a melhor tarifa, nele há uma opção para comparar todos os dias, me indicou a melhor data de partida-retorno na qual deu um total de 80 € voando pela GermanWings, a qual cumpre seu papel bem, a única coisa estranha e que você não tem direito a nada, nem um copo d’água de graça pela tarifa supereconômica.
 
-<!--more--><figure id="attachment_79" style="width: 300px" class="wp-caption alignright">
-
-[<img class="wp-image-79 size-medium" src="/resources/img/fr_quadro-300x169.jpg" alt="Pintura de Luis XIV" width="300" height="169" srcset="/assets/2016/01/fr_quadro-300x169.jpg 300w, http:///assets/2016/01/fr_quadro-768x432.jpg 768w, http:///assets/2016/01/fr_quadro-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http:///assets/2016/01/fr_quadro.jpg)<figcaption class="wp-caption-text">Pintura de Luis XIV</figcaption></figure>
+<img align="right" alt="Pintura de Luis XIV" src="{{ site.url }}/resources/img/fr_quadro.jpg" />
 
 Na acomodação, procurei a melhor com melhor custo beneficio, pelo Booking.com os hotéis mais baratos estavam com diária de 50 €, porem eu já havia ouvido falar do AirBnB e gostaria de tentar dessa vez, acabei achando um bem próximo da torre Eiffel pelo mesmo preço. Achei bem em conta, visto que por esse preço eu tinha um pequeno apartamento só para mim, o qual podia acomodar ate 4 pessoas, com cozinha e os demais itens essenciais, assim eu economizaria também tomando café e ate jantando em casa mesmo.
 
 Para planejar o meu roteiro de passeios, utilizei alguns sites como tripomatic.com e routeperfect.com porem acabei fazendo vários tipos de pesquisa relacionada a “Top Places Paris” no Google. E após definir o que eu iria ver, acabei notando que sempre tenho que pagar alguma taxa, e como a quantidade era grande, acabei optando por comprar um [passe para os museums](mailto:http://en.parismuseumpass.com/) de quatro dias, ele dava acesso a alguns museus e monumentos, o que deu uma boa economizada nos meus gastos.<figure id="attachment_72" style="width: 300px" class="wp-caption alignright">
 
-[<img class="wp-image-72 size-medium" src="/resources/img/eifel_sacre-300x169.jpg" alt="Basílica de Sacré-Cœur" width="300" height="169" srcset="/assets/2016/01/eifel_sacre-300x169.jpg 300w, http:///assets/2016/01/eifel_sacre-768x432.jpg 768w, http:///assets/2016/01/eifel_sacre-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http:///assets/2016/01/eifel_sacre.jpg)<figcaption class="wp-caption-text">Basílica de Sacré-Cœur</figcaption></figure>
+<img align="right" alt="Basílica de Sacré-Cœur" src="{{ site.url }}/resources/img/eifel_sacre.jpg" />
 
 Para me locomover lá, fiquei cogitando comprar um SimCard pré-pago, porem onde tentei comprar o pessoal apenas vendia oSimCard, não ativava para mim, então já fui preparado com uns mapas off-line para o meu Android. Deixei o Google Maps com o mapa de Paris instalado, e instalei o aplicativo do metro [RATP](mailto:https://play.google.com/store/apps/details%3Fid=net.ixxi.ratp.tourisme). No fim eles me serviram, não cheguei a precisar comprar o SimCard extra nem pagar roaming, para me locomover, apenas utilizei o metro, o qual tem uma boa cobertura e um preço barato, não cheguei a comprar nenhum pacote semanal, apenas os pacotes T+ que vem 10 tickets por 1,42 € se não me engano, as únicas vezes que tive que pagar mais, foi para ir o Aeroporto ao Centro (10 €~), e do centro ao Palácio de Versalhes (4 €~) e vice versa.
 
@@ -30,7 +28,7 @@ Meus principais pontos para visitar foram os descritos abaixo em ordem, programa
 
 ** Recomendo a visita, e uma visita curta, porem suas vidraças são excepcionais, bem como a arquitetura interna, porem se seu tempo estiver curto e a fila muito grande, recomendo pular.<figure id="attachment_74" style="width: 169px" class="wp-caption alignright">
 
-[<img class="wp-image-74 size-medium" src="/resources/img/fr_arco-169x300.jpg" alt="arco do triumfo" width="169" height="300" />](http:///assets/2016/01/fr_arco.jpg)<figcaption class="wp-caption-text">Arco do Triumfo</figcaption></figure>
+<img align="right" alt="Arco do Triumfo" src="{{ site.url }}/resources/img/fr_arco.jpg" />
 
 **Arco do Triunfo
 
@@ -48,7 +46,7 @@ Arquitetura incrível, recomendo a visita, tanto dentro, quanto no andar superio
 
 ** Um túnel subterrâneo utilizado como cemitério na revolução francesa, muito legal atravessar ele e ver vários ossos e esqueletos, caso você vá, vá mais cedo para pegar uma fichinha, pois como e limitado o numero de pessoas dentro do túnel em 100 se não me engano, eles preferem distribuir as fichas com horários, assim você não se frustra em ficar o dia todo na fila e não entrar. O ideal e chegar umas 08am, assim você pega fichinha para entrar as 10, e nesse intervalo de espera, você aproveita e vai conhecer uma padaria com seus doces franceses.<figure id="attachment_75" style="width: 300px" class="wp-caption alignright">
 
-[<img class="wp-image-75 size-medium" src="/resources/img/fr_catatumbas-300x169.jpg" alt="Catacumbas de Paris" width="300" height="169" srcset="/assets/2016/01/fr_catatumbas-300x169.jpg 300w, http:///assets/2016/01/fr_catatumbas-768x432.jpg 768w, http:///assets/2016/01/fr_catatumbas-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http:///assets/2016/01/fr_catatumbas.jpg)<figcaption class="wp-caption-text">Catacumbas de Paris</figcaption></figure>
+<img align="right" alt="Catacumbas de Paris" src="{{ site.url }}/resources/img/fr_catatumbas.jpg" />
 
 **Catedral de Notre Dame**
 
@@ -66,7 +64,7 @@ Um ótimo lugar para descansar, ler um livro, pegar um sol, uma pena que no inve
 
 Uma praça com jardim, um chafariz, lago e varias outras coisas legais, recomendo a visita.<figure id="attachment_76" style="width: 300px" class="wp-caption alignright">
 
-[<img class="wp-image-76 size-medium" src="/resources/img/fr_egito-300x169.jpg" alt="Seção egípcia no museu do Louvre" width="300" height="169" srcset="/assets/2016/01/fr_egito-300x169.jpg 300w, http:///assets/2016/01/fr_egito-768x432.jpg 768w, http:///assets/2016/01/fr_egito-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http:///assets/2016/01/fr_egito.jpg)<figcaption class="wp-caption-text">Seção egípcia no museu do Louvre</figcaption></figure>
+<img align="right" alt="Seção egípcia no museu do Louvre" src="{{ site.url }}/resources/img/fr_egito.jpg" />
 
 **Montmartre**
 
