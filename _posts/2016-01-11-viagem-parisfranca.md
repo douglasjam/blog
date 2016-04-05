@@ -24,13 +24,13 @@ Para me locomover lá, fiquei cogitando comprar um SimCard pré-pago, porem onde
 
 Meus principais pontos para visitar foram os descritos abaixo em ordem, programado para 5 dias, ficando 2 dias de reserva para visitas e possíveis erros ou mudanças, acabou que acabei quebrando a cara algumas vezes, indo ate o lugar, e o lugar estando em greve, como foi o caso da Santa Basílica, outros, no dia que fui estava fechado, tive que voltar no seguinte e outros a fila estava tão grande que não daria mais tempo no mesmo dia, mas no final acabou dando tudo certo, e legal adiciona-los no seu aplicativo de mapa, para saber quais estão próximos de quais, afim de aproveitar e já visita-lo e ate economizar um ticket do metro. Acabei visitando alguns outros, mas não me recordo mais.
 
-**A Santa Capela
+**A Santa Capela**
 
 ** Recomendo a visita, e uma visita curta, porem suas vidraças são excepcionais, bem como a arquitetura interna, porem se seu tempo estiver curto e a fila muito grande, recomendo pular.<figure id="attachment_74" style="width: 169px" class="wp-caption alignright">
 
 <img align="right" alt="Arco do Triumfo" src="{{ site.url }}/resources/img/fr_arco.jpg" />
 
-**Arco do Triunfo
+**Arco do Triunfo**
 
 ** Um dos monumentos mais famosos, gostei de ter ido lá, como aparenta que todas as grandes avenidas da cidade convergem para ele, você tem uma ótima vista la de cima.
 
@@ -42,7 +42,7 @@ E uma avenida bonita, bem movimentada, com muitas lojas de gripe, mas não me ch
 
 Arquitetura incrível, recomendo a visita, tanto dentro, quanto no andar superior.
 
-**Catacumbas de Paris
+**Catacumbas de Paris**
 
 ** Um túnel subterrâneo utilizado como cemitério na revolução francesa, muito legal atravessar ele e ver vários ossos e esqueletos, caso você vá, vá mais cedo para pegar uma fichinha, pois como e limitado o numero de pessoas dentro do túnel em 100 se não me engano, eles preferem distribuir as fichas com horários, assim você não se frustra em ficar o dia todo na fila e não entrar. O ideal e chegar umas 08am, assim você pega fichinha para entrar as 10, e nesse intervalo de espera, você aproveita e vai conhecer uma padaria com seus doces franceses.<figure id="attachment_75" style="width: 300px" class="wp-caption alignright">
 
@@ -52,7 +52,7 @@ Arquitetura incrível, recomendo a visita, tanto dentro, quanto no andar superio
 
 Tem uma arquitetura única, recomendo a visita, apenas fiquei sabendo que tem um porão com um pequeno museu medieval nela depois, então não esqueça.
 
-**Grande Arco da Defesa
+**Grande Arco da Defesa**
 
 ** Este monumento em si não me chamou atenção, porem e realmente grande, e logo perto dele você acha um dedão gigante, bem como o La Defense, que e uma praça, o qual recomendo a visita no conjunto.
 
@@ -102,9 +102,7 @@ Museu de artes modernas, eu particularmente não gosto deste tipo de arte.<figur
 
 Ponto turístico com varias atrações, dentre elas uma roda gigante imensa, um chafariz, um totem com ideogramas e uma praça bem legal, fica bem perto do museu de Louvre, por sorte perto dela tinha uma feira de natal, e acabamos aproveitando lá também.
 
-**
-
-Praça do Teatro**
+**Praça do Teatro**
 
 Recheada varias ateliês e artistas de rua, além de bons restaurantes no arredor, se for a basílica de Sacre-Cœur aproveite para passar lá.
 
