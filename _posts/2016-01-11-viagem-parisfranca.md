@@ -80,7 +80,7 @@ Um cabaré muito antigo, que hoje virou uma discoteca não cheguei a entrar nem 
 
 A pintura da Monalisa se encontra neste, além de ter varias outras pintura e obras legais, como por exemplo, pecas egípcias e armaduras da Guerra, eu recomendo! Porem se for querer mesmo ver o museu inteiro, reserve ao menos umas 5 horas para olhar correndo.<figure id="attachment_73" style="width: 300px" class="wp-caption alignright">
 
-[<img class="wp-image-73 size-medium" src="/resources/img/eifel_tinta-300x169.jpg" alt="artistas em montmartre" width="300" height="169" srcset="/assets/2016/01/eifel_tinta-300x169.jpg 300w, http:///assets/2016/01/eifel_tinta-768x432.jpg 768w, http:///assets/2016/01/eifel_tinta-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http:///assets/2016/01/eifel_tinta.jpg)<figcaption class="wp-caption-text">Artistas em Montmartre</figcaption></figure>
+<img align="right" alt="Artistas em Montmatre" src="{{ site.url }}/resources/img/eifel_tinta.jpg" />
 
 **Palácio Chaillot**
 
@@ -98,7 +98,7 @@ Uma antiga igreja que acabou sendo transformada em mausoléu, tem uma arquitetur
 
 Museu de artes modernas, eu particularmente não gosto deste tipo de arte.<figure id="attachment_80" style="width: 300px" class="wp-caption alignright">
 
-<a href="/assets/2016/01/filas.jpg" rel="attachment wp-att-80"><img class="wp-image-80 size-medium" src="/resources/img/filas-300x169.jpg" alt="filas em paris" width="300" height="169" srcset="/assets/2016/01/filas-300x169.jpg 300w, http:///assets/2016/01/filas-768x432.jpg 768w, http:///assets/2016/01/filas-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><figcaption class="wp-caption-text">Filas para tudo em Paris</figcaption></figure>
+<img align="right" alt="Filas em Paris" src="{{ site.url }}/resources/img/filas.jpg" />
 
 **Praça da Concordia**
 

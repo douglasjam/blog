@@ -4,7 +4,7 @@ title: Zend Certified PHP Engineer
 categories:
   - PHP
 ---
-<figure id="attachment_90" style="width: 243px" class="wp-caption alignright">[<img class="wp-image-90 size-medium" src="/resources/img/Screen-Shot-2016-01-12-at-11.06.19-243x300.png" alt="Zend PHP 5 Certification Study Guide" width="243" height="300" srcset="/assets/2016/01/Screen-Shot-2016-01-12-at-11.06.19-243x300.png 243w, http:///assets/2016/01/Screen-Shot-2016-01-12-at-11.06.19-768x947.png 768w, http:///assets/2016/01/Screen-Shot-2016-01-12-at-11.06.19.png 962w" sizes="(max-width: 243px) 100vw, 243px" />](http:///assets/2016/01/Screen-Shot-2016-01-12-at-11.06.19.png)<figcaption class="wp-caption-text">Zend PHP 5 Certification Study Guide</figcaption></figure>
+<img align="right" alt="Zend PHP 5 Certification Study Guide" src="{{ site.url }}/resources/img/Screen-Shot-2016-01-12-at-11.06.19.jpg" />
 
 Vou relatar nesse post minha experiência ao tirar a certificação Zend PHP Engineer, já se fazem 8 meses que tirei, portanto não vou lembrar exatamente como foi, mas é melhor escrever aqui do que esperar que eu me esqueça por completo.
 
@@ -16,7 +16,7 @@ Com o passar do tempo, fui me aprimorando, comecei o curso técnico e fui aprend
 
 Pesquisei sobre o que cairia e achei que conseguia, porém devido ao alto preço, 195 dólares, eu não podia falhar. Marquei o exame com um mês de prazo para que eu pudesse estudar um pouco, um prazo curto, porém, eu queria colocar aquela certificação em meu currículo pelo fato de já estar avançado nas entrevistas e achar que faria a mesma diferença.<figure id="attachment_91" style="width: 243px" class="wp-caption alignright">
 
-[<img class="wp-image-91 size-medium" src="/resources/img/Screen-Shot-2016-01-12-at-11.06.42-243x300.png" alt="Zend PHP Certification Practice Test Book" width="243" height="300" srcset="/assets/2016/01/Screen-Shot-2016-01-12-at-11.06.42-243x300.png 243w, http:///assets/2016/01/Screen-Shot-2016-01-12-at-11.06.42-768x947.png 768w" sizes="(max-width: 243px) 100vw, 243px" />](http:///assets/2016/01/Screen-Shot-2016-01-12-at-11.06.42.png)<figcaption class="wp-caption-text">Zend PHP Certification Practice Test Book</figcaption></figure>
+<img align="right" alt="Zend PHP Certification Practice Test Book" src="{{ site.url }}/resources/img/Screen-Shot-2016-01-12-at-11.06.42.jpg" />
 
 Comecei a procurar por ebooks, livros e apps pela internet, e pelo que me recordo, dediquei aos dois abaixo, um com a teoria e outro com simulados e um aplicativo para smartphone [(PHP ZCE Practice Exam)](mailto:https://play.google.com/store/apps/details%3Fid=com.quiz.php). Estes livros realmente foram muito proveitosos, aprendi muita coisa que nem fazia ideia que existia na linguagem como também coisas as quais eu achava que era de um jeito porem era de outro totalmente diferente. O aplicativo eu utilizava sempre dentro do ônibus ou caminhando para o trabalho em prol de praticar o que tinha estudado, visto que meu tempo era curto.
 
@@ -28,7 +28,7 @@ Por fim uma lição que tirei do livro e que, independente da sua experiência, 
 
 Após esse um mês de estudo, eu havia terminado o livro e praticado vários simulados, acredito que estava tirando em torno de 80% nos simulados, uma nota razoável, porem não ideal, eu sempre vacilava em algumas pegadinhas por fazer os simulados correndo, porem eu não tinha mais tempo para estudar, e acreditava que na hora da prova eu estaria 100% focado para não cair nelas.<figure id="attachment_92" style="width: 174px" class="wp-caption alignright">
 
-<a href="/assets/2016/01/Screen-Shot-2016-01-12-at-11.32.48.png" rel="attachment wp-att-92"><img class="wp-image-92 size-medium" src="/resources/img/Screen-Shot-2016-01-12-at-11.32.48-174x300.png" alt="ZCE Practice Test Exame" width="174" height="300" srcset="/assets/2016/01/Screen-Shot-2016-01-12-at-11.32.48-174x300.png 174w, http:///assets/2016/01/Screen-Shot-2016-01-12-at-11.32.48-594x1024.png 594w, http:///assets/2016/01/Screen-Shot-2016-01-12-at-11.32.48.png 764w" sizes="(max-width: 174px) 100vw, 174px" /></a><figcaption class="wp-caption-text">ZCE Practice Test Exame</figcaption></figure>
+<img align="right" alt="ZCE Practice Test Exame" src="{{ site.url }}/resources/img/Screen-Shot-2016-01-12-at-11.32.48.jpg" />
 
 A prova e composta de 70 questões, para serem realizadas em 90 minutos. Onde a variedade das respostas podia ser, uma resposta correta, mais de uma resposta correta e texto aberto, se me lembro era apenas campos onde se respondia uma palavra, como por exemplo o nome de uma função, ou o resultado.
 

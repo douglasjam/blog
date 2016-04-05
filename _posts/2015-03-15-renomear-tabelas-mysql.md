@@ -13,7 +13,6 @@ FROM information_schema.tables
 where table_schema like 'bancosistema'
 {% endhighlight %}
 
-
 Após executar esta query a saída será parecida com a abaixo, no caso solicitei a adição do sufixo &#8220;ds_&#8221; ao nome de cada tabela, após basta exportar da maneira que achar mais conveniente esta saída e executar o script que todas as tabelas serão renomeadas.
 
 {% highlight sql %}
