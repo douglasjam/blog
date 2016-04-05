@@ -1,25 +1,6 @@
 ---
-id: 109
-title: Procurando empregos internacionais
-date: 2016-03-03T21:18:07+00:00
-author: douglasjam
 layout: post
-guid: http://douglasjam.com.br/?p=109
-permalink: http://douglasjam.com.br/2016/03/03/procurando-empregos-internacionais/
-episode_type:
-  - audio
-audio_file:
-  -
-duration:
-  -
-filesize:
-  -
-date_recorded:
-  -
-explicit:
-  -
-block:
-  -
+title: Procurando empregos internacionais
 categories:
   - Dicas
 ---

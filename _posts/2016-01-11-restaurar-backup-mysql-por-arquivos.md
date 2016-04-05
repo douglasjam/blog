@@ -1,13 +1,6 @@
 ---
-id: 53
-title: Restaurar backup mysql por arquivos
-date: 2016-01-11T08:50:09+00:00
-author: douglasjam
 layout: post
-guid: http://blog.djar.com.br/?p=53
-permalink: http://douglasjam.com.br/2016/01/11/restaurar-backup-mysql-por-arquivos/
-dsq_thread_id:
-  - 4715171727
+title: Restaurar backup mysql por arquivos
 categories:
   - Banco de Dados
   - Linux
@@ -19,28 +12,38 @@ Vou detalhar abaixo o passo a passo o qual segui para recuperar um banco apos es
 
 1- Faça backup dos bancos de dados:
 
-<pre class="lang:sh decode:true">cp -rf /var/lib/mysql/ ~/backup_mysql</pre>
+{% highlight bash %}
+cp -rf /var/lib/mysql/ ~/backup_mysql
+{% endhighlight %}
 
 2 &#8211; Reconfigure seu novo servidor
 
 3 &#8211; Pare o servidor
 
-<pre class="lang:sh decode:true ">service mysql stop</pre>
+{% highlight bash %}
+service mysql stop
+{% endhighlight %}
 
 4 &#8211; Copie de volta os bancos de dados que deseja, normalmente estes sao separados por pastas
 
-<pre class="lang:sh decode:true">cp -rf ~/mysql_backup/meu_db /var/lib/mysql/</pre>
+{% highlight bash %}
+cp -rf ~/mysql_backup/meu_db /var/lib/mysql/
+{% endhighlight %}
 
 5 &#8211; Caso voce possua algum banco de dados InnoDB, voce tambem tera que copiar a pasta ibdata1.
 
-<pre class="lang:sh decode:true ">cp -rf ~/mysql_backup/ibdata1 /var/lib/mysql/</pre>
+{% highlight bash %}
+cp -rf ~/mysql_backup/ibdata1 /var/lib/mysql/
+{% endhighlight %}
 
 6 &#8211; Restaure as permissoes dos arquivos
 
-<pre class="lang:sh decode:true ">chown mysql:mysql /var/lib/mysql/* -R</pre>
+{% highlight bash %}
+chown mysql:mysql /var/lib/mysql/* -R
+{% endhighlight %}
 
 7 &#8211; Reinicie o servidor, e provavelmente estará tudo funcionando
 
-<pre class="lang:default decode:true ">service mysql start</pre>
-
-&nbsp;
+{% highlight bash %}
+service mysql start
+{% endhighlight %}

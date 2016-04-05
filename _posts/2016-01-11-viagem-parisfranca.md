@@ -1,13 +1,6 @@
 ---
-id: 67
-title: Viagem Paris/França
-date: 2016-01-11T12:00:33+00:00
-author: douglasjam
 layout: post
-guid: http://douglasjam.com.br/?p=67
-permalink: http://douglasjam.com.br/2016/01/11/viagem-parisfranca/
-dsq_thread_id:
-  - 4534521929
+title: Viagem Paris/França
 categories:
   - Viagens
 ---

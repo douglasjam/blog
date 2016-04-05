@@ -1,27 +1,6 @@
 ---
-id: 151
-title: 'Bíblia Narrada &#8211; João'
-date: 2016-03-02T08:54:43+00:00
-author: douglasjam
 layout: post
-guid: http://douglasjam.com.br/?p=151
-permalink: http://douglasjam.com.br/2016/03/02/biblia-narrada-joao/
-episode_type:
-  - audio
-audio_file:
-  -
-duration:
-  -
-filesize:
-  -
-date_recorded:
-  -
-explicit:
-  -
-block:
-  -
-dsq_thread_id:
-  - 4627405155
+title: 'Bíblia Narrada &#8211; João'
 categories:
   - Bíblia Narrada
 ---

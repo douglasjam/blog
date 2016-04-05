@@ -1,13 +1,6 @@
 ---
-id: 89
-title: Zend Certified PHP Engineer
-date: 2016-01-12T08:35:47+00:00
-author: douglasjam
 layout: post
-guid: http://douglasjam.com.br/?p=89
-permalink: http://douglasjam.com.br/2016/01/12/zend-certified-php-engineer/
-dsq_thread_id:
-  - 4484015168
+title: Zend Certified PHP Engineer
 categories:
   - PHP
 ---

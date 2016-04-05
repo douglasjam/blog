@@ -1,18 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+name: douglasjam
+markdown: redcarpet
+highlighter: rouge
+github: https://www.github.com/liamsymonds
+about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+paginate: 5
+urls:
+  - text: github
+    url: https://github.com/douglasjam
+  - text: linkedin
+    url: https://www.linkedin.com/in/douglasjam
+  - text: instagram
+    url: https://www.instagram.com/douglasjam
 
-# Site settings
-title: douglasjam
-email: your-email@domain.com
-description: Programador, mineiro e atualmente morando na Alemanha. Neste blog postarei algumas coisas legais que descubro no dia a dia, não apenas vinculado à programação, mas também sobre outros temas que são do meu cotidiano. Entre estes posts alguns são apenas para recordar no futuro sobre experiências ou aprendizados, por tanto não se sinta perdido caso não entenda algo.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.douglasjam.com.br" # the base hostname & protocol for your site
-twitter_username: douglasjam
-github_username:  douglasjam
-
-# Build settings
-markdown: kramdown
+# todo's
+# multilingual support
+# https://github.com/screeninteraction/jekyll-multiple-languages-plugin

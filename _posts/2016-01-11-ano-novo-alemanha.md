@@ -1,11 +1,6 @@
 ---
-id: 57
-title: Ano novo alemanha
-date: 2016-01-11T09:38:48+00:00
-author: douglasjam
 layout: post
-guid: http://blog.djar.com.br/?p=57
-permalink: http://douglasjam.com.br/2016/01/11/ano-novo-alemanha/
+title: Ano novo alemanha
 categories:
   - Alemanha
 ---

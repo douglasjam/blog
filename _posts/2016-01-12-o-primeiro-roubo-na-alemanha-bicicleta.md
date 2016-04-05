@@ -1,13 +1,6 @@
 ---
-id: 107
-title: 'Bicicleta na Alemanha &#8211; roubaram a minha'
-date: 2016-01-12T14:53:37+00:00
-author: douglasjam
 layout: post
-guid: http://douglasjam.com.br/?p=107
-permalink: http://douglasjam.com.br/2016/01/12/o-primeiro-roubo-na-alemanha-bicicleta/
-dsq_thread_id:
-  - 4484945207
+title: 'Bicicleta na Alemanha &#8211; roubaram a minha'
 categories:
   - Alemanha
 ---
