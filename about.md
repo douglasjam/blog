@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Programador, mineiro e atualmente morando na Alemanha. Neste blog postarei algumas coisas legais que descubro no dia a dia, não apenas vinculado à programação, mas também sobre outros temas que são do meu cotidiano. Entre estes posts alguns são apenas para recordar no futuro sobre experiências ou aprendizados, por tanto não se sinta perdido caso não entenda algo.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<figure>
+	<img align="right" alt="Minha foto" src="{{ site.url }}/img/logo.jpg" />
+</figure>

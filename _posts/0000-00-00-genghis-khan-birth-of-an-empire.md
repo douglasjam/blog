@@ -1,12 +1,15 @@
-genghiskhan-birthempires.jpg
+<figure>
+	<img align="right" alt="Livro Genghis Khan - Birth of an Empire" src="{{ site.url }}/resources/img/genghiskhan-birthempires.jpg" />
+	<figcaption>Livro Genghis Khan - Birth of an Empire</figcaption>
+</figure>
 
-Esse é o Genghis Khan - Birth of an Empireprimeiro grande livro que leio, e estou extremamente satisfeito, achei ele bem envolvente, apesar de longo, eu sempre queria saber o que iria acontecer no próximo capitulo, ele conta a historia de como Genghis Khan foi criado, quais foram suas experiências quando jovem
+Esse é o Genghis Khan - Birth of an Empire e o primeiro grande livro que leio, e estou extremamente satisfeito, achei ele bem envolvente, apesar de longo, eu sempre queria saber o que iria acontecer no próximo capitulo, ele conta a historia de como Genghis Khan foi criado, quais foram suas experiências quando jovem
 
 Decidi ler ele, principalmente porque gosto de historias de lideres antigos, como Alexandre o Grande, Genghis Khan, Xerxes, Leônidas, outro fator também foi que eu estava determinado em aumentar meu vocabulário em inglês, motivo o qual escolhi inglês, isso desacelerou bastante minha leitura, pois o vocabulário do livro e extremamente rico, com algumas palavras as quais que eu mal sabia em português.
 
-Iniciei a leitura em 3 de janeiro de 2015 e terminei em <data>, com uma média de 2 capítulos diários, este livro pertence a serie The Khan Series de Conn Iggulden.
+Iniciei a leitura em 03/01/2015 e terminei em <data>, com uma média de 2 capítulos diários, este livro pertence a serie The Khan Series de Conn Iggulden.
 
-Cuidado, spoilers abaixo.
+*Cuidado, spoilers abaixo.*
 
 Alguma das coisas interessantes as quais aprendi com esse livro são, tecnicamente os fatos abaixo são relacionados aos mongóis do ano 1100.
 
