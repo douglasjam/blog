@@ -1,7 +1,9 @@
 name: douglasjam
+description: Um blog sobre GNU/Linux, PHP, Python e outras coisas sobre programação, TI e nerdices.
+url: http://www.douglasjam.com.br
 markdown: kramdown
 highlighter: rouge
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+paginate: 10
 urls:
   - text: github
     url: https://github.com/douglasjam
