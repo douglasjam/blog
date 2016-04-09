@@ -2,57 +2,27 @@
 layout: default
 title: Douglas
 ---
-
-<ul class="unstyled posts-list">
-  {% for post in paginator.posts %}
-  <li>
-    <span>{{ post.date | date_to_string }}</span>
-    <a href="{{ post.url }}">
-      <h2 class="post-title">{{ post.title }}</h2>
-      <p>
-        {{ post.content | strip_html | truncatewords: 30 }}
+{% for post in site.posts %}
+  <section class="post">
+    <header class="entry-header">
+      {% if post.figure %}
+      <img class="img-circle entry-avatar" alt="{{ post.figcaption }}" height="100" width="100" src="{{ post.figure }}">
+      {% endif %}
+      <h2 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="entry-meta">
+        Posted on <a class="entry-date" href="date.html">{{ post.date | date_to_string }}</a>
+        {% if post.categories.size > 0 %}
+        | Categories
+          {% for categorie in post.categories %}
+          <a class="label label-danger" href="tag.html">{{ categorie }}</a>
+          {% endfor %}
+        {% endif %}
       </p>
-    </a>
-  </li>
-  {% endfor %}
-</ul>
-
-<nav class="ink-navigation">
-  <ul class="pagination">
-    {% if paginator.previous_page %}
-    <li class="previous">
-      <a href="/page{{ paginator.previous_page }}">Anterior</a>
-    </li>
-    {% else %}
-    <li class="previous disabled">
-      <a href="#">Anterior</a>
-    </li>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-    <li class="disabled">
-      <a href="#">{{ page }}</a>
-    </li>
-    {% elsif page == 1 %}
-    <li>
-      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    </li>
-    {% else %}
-    <li>
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    </li>
-    {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-    <li class="next">
-      <a href="/page{{ paginator.next_page }}">Próximo</a>
-    </li>
-    {% else %}
-    <li class="next disabled">
-      <a href="#">Próximo</a>
-    </li>
-    {% endif %}
-  </ul>
-</nav>
+    </header>
+    <div class="entry-description">
+      <p>
+        {{ content | strip_html | truncatewords: 30 }}
+      </p>
+    </div>
+  </section>
+{% endfor %}

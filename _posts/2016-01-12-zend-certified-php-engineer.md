@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Zend Certified PHP Engineer
+figure: resources/img/zendphp5certificationstudyguide.png
+figcaption: Livro Zend PHP 5 Certification Study Guide
 categories:
   - PHP
 ---
 <figure>
-	<img align="right" alt="Zend PHP 5 Certification Study Guide" src="{{ site.url }}/resources/img/Screen-Shot-2016-01-12-at-11.06.19.png" />
+	<img align="right" alt="Zend PHP 5 Certification Study Guide" src="{{ site.url }}/resources/img/zendphp5certificationstudyguide.png" />
 	<figcaption>Livro Zend PHP 5 Certification Study Guide</figcaption>
 </figure>
 
@@ -20,7 +22,7 @@ Com o passar do tempo, fui me aprimorando, comecei o curso técnico e fui aprend
 Pesquisei sobre o que cairia e achei que conseguia, porém devido ao alto preço, 195 dólares, eu não podia falhar. Marquei o exame com um mês de prazo para que eu pudesse estudar um pouco, um prazo curto, porém, eu queria colocar aquela certificação em meu currículo pelo fato de já estar avançado nas entrevistas e achar que faria a mesma diferença.<figure id="attachment_91" style="width: 243px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="Zend PHP Certification Practice Test Book" src="{{ site.url }}/resources/img/Screen-Shot-2016-01-12-at-11.06.42.png" />
+	<img align="right" alt="Zend PHP Certification Practice Test Book" src="{{ site.url }}/resources/img/zendphpcertificationpracticetestbook.png" />
 	<figcaption>Livro Zend PHP Certification Practice Test Book</figcaption>
 </figure>
 
@@ -35,7 +37,7 @@ Por fim uma lição que tirei do livro e que, independente da sua experiência, 
 Após esse um mês de estudo, eu havia terminado o livro e praticado vários simulados, acredito que estava tirando em torno de 80% nos simulados, uma nota razoável, porem não ideal, eu sempre vacilava em algumas pegadinhas por fazer os simulados correndo, porem eu não tinha mais tempo para estudar, e acreditava que na hora da prova eu estaria 100% focado para não cair nelas.<figure id="attachment_92" style="width: 174px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="ZCE Practice Test Exame" src="{{ site.url }}/resources/img/Screen-Shot-2016-01-12-at-11.32.48.png" />
+	<img align="right" alt="ZCE Practice Test Exame" src="{{ site.url }}/resources/img/zcepractivetestexameapp.png" />
 	<figcaption>Aplicativo ZCE Practice Test Exame</figcaption>
 </figure>
 

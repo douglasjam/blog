@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  {% include head.html %}
+</head>
+
+<body class="pace-done">
+
+<div class="pace  pace-inactive">
+  <div class="pace-progress" data-progress-text="100%" data-progress="99" style="width: 100%;">
+    <div class="pace-progress-inner"></div>
+  </div>
+  <div class="pace-activity"></div>
+</div>
+
+<!-- Page Content -->
+<div id="primary" class="col-sm-12">
+
+  <div class="content">
+
+    <header class="header">
+      <hgroup class="pull-left">
+        <h1 class="site-title">
+          <a rel="home" title="Von" href="index.html">
+            <i class="fa fa-lemon-o"></i> Von
+          </a>
+        </h1>
+      </hgroup>
+      <div id="togglesidebar" class="btn btn-primary pull-right">
+        <i class="fa fa-bars"></i>
+      </div>
+    </header>
+
+    <!-- Blog Entries Column -->
+    {{ content }}
+
+    {% include footer.html %}
+
+
+  </div>
+
+</div>
+
+</body>
+</html>

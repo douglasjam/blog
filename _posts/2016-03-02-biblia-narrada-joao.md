@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Bíblia Narrada &#8211; João'
+figure: resources/img/Joao.jpg
+figcaption: Foto do Livro de João
 categories:
   - Bíblia Narrada
 ---

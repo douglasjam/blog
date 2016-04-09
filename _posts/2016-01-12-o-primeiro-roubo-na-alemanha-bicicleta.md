@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 'Bicicleta na Alemanha &#8211; roubaram a minha'
+figure: resources/img/bicycle.jpg
+figcaption: Minha ex-bicicleta
 categories:
   - Alemanha
 ---

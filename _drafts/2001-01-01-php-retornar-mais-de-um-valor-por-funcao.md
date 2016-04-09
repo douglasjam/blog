@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Criar Link Simbólico
+title: PHP - Retornar mais de uma variavel por funcao
 categories:
-  - Cloud
-  - Linux
-  - Windows
+  - PHP
 ---
 list($varA, $varB) = asd();
 

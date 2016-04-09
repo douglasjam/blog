@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pheanstalk
+title: PHP Pheanstalk
 published: false
 categories:
   - PHP
