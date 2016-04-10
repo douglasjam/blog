@@ -2,7 +2,7 @@
 layout: default
 title: Douglas
 ---
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <section class="post">
     <header class="entry-header">
       {% if post.figure %}
@@ -14,15 +14,29 @@ title: Douglas
         {% if post.categories.size > 0 %}
         | Categories
           {% for categorie in post.categories %}
-          <a class="label label-danger" href="tag.html">{{ categorie }}</a>
+          <a class="label label-danger" href="/{{ categorie }}">{{ categorie }}</a>
           {% endfor %}
         {% endif %}
       </p>
     </header>
     <div class="entry-description">
       <p>
-        {{ content | strip_html | truncatewords: 30 }}
+        {{ post.content | strip_html | truncatewords: 30 }}
       </p>
     </div>
   </section>
 {% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+  <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+  <span class="next ">Next</span>
+  {% endif %}
+</div>

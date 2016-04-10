@@ -4,6 +4,7 @@ url: http://www.douglasjam.com.br
 markdown: kramdown
 highlighter: rouge
 author: Douglas J.A.M
+paginate: 10
 urls:
   - text: github
     url: https://github.com/douglasjam
