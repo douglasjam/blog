@@ -16,7 +16,7 @@ urls:
     url: https://www.instagram.com/douglasjam
 picture:
   source: resources/img
-  output: resources/img/generated
+  output: resources/generated
   presets:
     default:
       ppi: [1, 1.5, 2]
