@@ -6,15 +6,15 @@ title: Douglas
   <section class="post">
     <header class="entry-header">
       {% if post.figure %}
-      <img class="img-circle entry-avatar" alt="{{ post.figcaption }}" height="100" width="100" src="{{ post.figure }}">
+        <img class="img-circle entry-avatar" alt="{{ post.figcaption }}" height="100" width="100" src="{{ site.url }}{{ post.figure }}">
       {% endif %}
-      <h2 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
       <p class="entry-meta">
         Posted on <a class="entry-date" href="date.html">{{ post.date | date_to_string }}</a>
         {% if post.categories.size > 0 %}
         | Categories
           {% for categorie in post.categories %}
-          <a class="label label-danger" href="/{{ categorie }}">{{ categorie }}</a>
+          <a class="label label-danger" href="{{ site.url }}{{ categorie }}">{{ categorie }}</a>
           {% endfor %}
         {% endif %}
       </p>
@@ -29,14 +29,14 @@ title: Douglas
 
 <div class="pagination">
   {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
-  <span class="previous">Previous</span>
+    <span class="previous">Previous</span>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
-  <span class="next ">Next</span>
+    <span class="next ">Next</span>
   {% endif %}
 </div>
