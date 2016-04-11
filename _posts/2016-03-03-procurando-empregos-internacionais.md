@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Procurando empregos internacionais
-figure: resources/img/workabroad.jpg
+figure: /resources/img/workabroad.jpg
 figcaption: Trabalhando na Praia
 categories:
   - Dicas
