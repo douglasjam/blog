@@ -13,8 +13,8 @@ urls:
   - text: instagram
     url: https://www.instagram.com/douglasjam
 picture:
-  source: resources/img/_fullsize
-  output: resources/img/_modified
+  source: resources/img
+  output: resources/img/generated
   presets:
     default:
       ppi: [1, 1.5, 2]
