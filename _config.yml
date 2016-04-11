@@ -42,5 +42,4 @@ gems :
 #http://www.remotesynthesis.com/general/2015/10/02/advanced-jekyll-templates/
 #https://02dc74ce3e31e56a52ebcc845dca58e87283aabe.googledrive.com/host/0Bxbofwq0kd4ReUt2YWVOYmt3WVU/
 #https://github.com/robwierzbowski/jekyll-image-tag
-
-{% image_tag src=page.thumbnail width="200" %}
+#{% image_tag src=page.thumbnail width="200" %}
