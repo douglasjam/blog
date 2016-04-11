@@ -14,7 +14,7 @@ urls:
     url: https://www.instagram.com/douglasjam
 picture:
   source: "resources/img/_fullsize"
-  output: "generated"
+  output: "resources/img/_generated"
   markup: "picture"
   presets:
     default:
@@ -24,9 +24,9 @@ picture:
         itemprop: image
     source_full:
       width: 3840
-      source_lrg:
-        media: "(min-width: 40em)"
-        width: 700
+    source_lrg:
+      media: "(min-width: 40em)"
+      width: 700
     source_med:
       media: "(min-width: 30em)"
       width: 450
