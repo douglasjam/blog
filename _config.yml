@@ -12,12 +12,35 @@ urls:
     url: https://www.linkedin.com/in/douglasjam
   - text: instagram
     url: https://www.instagram.com/douglasjam
+picture:
+  source: "resources/img/_fullsize"
+  output: "generated"
+  markup: "picture"
+  presets:
+    default:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: blog-full
+        itemprop: image
+    source_full:
+      width: 3840
+      source_lrg:
+        media: "(min-width: 40em)"
+        width: 700
+    source_med:
+      media: "(min-width: 30em)"
+      width: 450
+    source_default:
+      width: 350
 gems :
   - jekyll-paginate
-
+  - jekyll-picture-tag
 # todo's
 # multilingual support
 # https://github.com/screeninteraction/jekyll-multiple-languages-plugin
 #excerpt
 #http://www.remotesynthesis.com/general/2015/10/02/advanced-jekyll-templates/
 #https://02dc74ce3e31e56a52ebcc845dca58e87283aabe.googledrive.com/host/0Bxbofwq0kd4ReUt2YWVOYmt3WVU/
+#https://github.com/robwierzbowski/jekyll-image-tag
+
+{% image_tag src=page.thumbnail width="200" %}
