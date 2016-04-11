@@ -5,6 +5,8 @@ markdown: redcarpet
 highlighter: rouge
 author: Douglas J.A.M
 paginate: 5
+keep_files: ["resources/generated"]
+
 urls:
   - text: github
     url: https://github.com/douglasjam
