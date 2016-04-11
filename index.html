@@ -6,7 +6,8 @@ title: Douglas
   <section class="post">
     <header class="entry-header">
       {% if post.figure %}
-        <img class="img-circle entry-avatar" alt="{{ post.figcaption }}" height="100" width="100" src="{{ site.url }}{{ post.figure }}">
+        {% picture {{ post.figcaption }} alt="our project" %}
+
       {% endif %}
       <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
       <p class="entry-meta">
