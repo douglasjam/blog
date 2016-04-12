@@ -5,8 +5,6 @@ markdown: redcarpet
 highlighter: rouge
 author: Douglas J.A.M
 paginate: 5
-keep_files: ["resources/generated"]
-
 urls:
   - text: github
     url: https://github.com/douglasjam
@@ -20,11 +18,11 @@ picture:
   presets:
     default:
       ppi: [1, 1.5, 2]
-      source_large:
-        media: "(min-width: 480px)"
-        width: "252"
-      source_default:
-        width: "480"
+    source_large:
+      media: "(min-width: 480px)"
+      width: "252"
+    source_default:
+      width: "480"
 gems :
   - jekyll-paginate
   - jekyll-picture-tag
