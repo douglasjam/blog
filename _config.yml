@@ -19,9 +19,11 @@ picture:
   presets:
     default:
       ppi: [1, 1.5, 2]
-    thumbnail:
-      height: "150"
-      width: "150"
+      source_large:
+        media: "(min-width: 480px)"
+        width: "252"
+      source_default:
+        width: "480"
 gems :
   - jekyll-paginate
   - jekyll-picture-tag
