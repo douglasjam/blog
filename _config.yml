@@ -13,6 +13,7 @@ urls:
   - text: instagram
     url: https://www.instagram.com/douglasjam
 picture:
+  output: "picture"
   markup: "picture"
   presets:
     default:

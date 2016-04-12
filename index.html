@@ -11,15 +11,7 @@ title: Douglas
         </a>
       {% endif %}
       <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-      <p class="entry-meta">
-        Posted on <a class="entry-date" href="date.html">{{ post.date | date_to_string }}</a>
-        {% if post.categories.size > 0 %}
-        | Categories
-          {% for categorie in post.categories %}
-          <a class="label label-danger" href="{{ site.url }}{{ categorie }}">{{ categorie }}</a>
-          {% endfor %}
-        {% endif %}
-      </p>
+      {% include meta.html %}
     </header>
     <div class="entry-description">
       <p>

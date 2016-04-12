@@ -1,0 +1,20 @@
+---
+layout: default
+---
+{% if post.figure %}
+  <img src="/resources/img/tmp.jpg" class="img-responsive">
+{% endif %}
+
+<section class="post">
+  <header class="entry-header">
+    {% include page-title.html %}
+    {% include page-info.html %}
+  </header>
+  <div class="entry-description">
+    {{ content }}
+  </div>
+</section>
+
+{% include page-sharing.html %}
+
+{% include page-disquis.html %}

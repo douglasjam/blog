@@ -105,6 +105,10 @@ a, a:focus, a:hover {
     text-transform: uppercase;
 }
 
+.post {
+    min-height: 70px;
+}
+
 /* Post */
 .post, .comments {
     background: #fff;
