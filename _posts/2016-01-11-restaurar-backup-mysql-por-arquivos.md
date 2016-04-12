@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Restaurar backup mysql por arquivos
 categories:
   - Banco de Dados

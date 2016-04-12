@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Alterar um a atributo privado fora da classe com reflection (PHP)
 categories:
   - PHP

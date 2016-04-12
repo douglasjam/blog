@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Viagem Paris/França
 figure: /resources/img/fr_eifel.jpg
 figcaption: Torre Eifel

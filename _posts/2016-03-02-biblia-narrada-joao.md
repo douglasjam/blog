@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'Bíblia Narrada &#8211; João'
 figure: /resources/img/joao.jpg
 figcaption: Foto do Livro de João

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Procurando empregos internacionais
 figure: /resources/img/workabroad.jpg
 figcaption: Trabalhando na Praia
