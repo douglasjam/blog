@@ -18,22 +18,12 @@ picture:
   markup: "picture"
   presets:
   default:
-    ppi: [1, 1.5]
-    attr:
-      class: blog-full
-      itemprop: image
-    source_lrg:
-      media: "(min-width: 40em)"
-      width: 700
-    source_med:
-      media: "(min-width: 30em)"
-      width: 450
+    ppi: [1, 1.5, 2]
+    source_large:
+      media: "(min-width: 480px)"
+      width: "252"
     source_default:
-      width: 350
-      height: 200
-    index_thumb:
-        width: "50"
-        height: "50"
+      width: "480"
 gems :
   - jekyll-paginate
   - jekyll-picture-tag
