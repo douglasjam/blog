@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Renomear tabelas Mysql
 categories:
   - Banco de Dados

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Ano novo alemanha
 figure: /resources/img/DSC_0130.jpg
 figcaption: Ano novo 2016 Hamburgo Alemanha
