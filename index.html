@@ -6,7 +6,9 @@ title: Douglas
   <section class="post">
     <header class="entry-header">
       {% if post.figure %}
-        {% picture index_thumb {{ post.figure }} %}
+        <a href="{{ site.url }}{{ post.url }}">
+          {% picture thumb_index {{ post.figure }} class="img-circle entry-avatar" alt="{{ post.figcaption }}" %}
+        </a>
       {% endif %}
       <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
       <p class="entry-meta">
