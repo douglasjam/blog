@@ -1,5 +1,5 @@
 <p class="entry-meta">
-    Posted on <a class="entry-date" href="date.html">{{ post.date | date_to_string }}</a>
+    Posted on <a class="entry-date" href="date.html">{{ page.date | date_to_string }}</a>
     {% if post.categories.size > 0 %}
     | Categories
     {% for categorie in post.categories %}

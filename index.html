@@ -7,11 +7,11 @@ title: Douglas
     <header class="entry-header">
       {% if post.figure %}
         <a href="{{ site.url }}{{ post.url }}">
-          {% picture thumb_index {{ post.figure }} class="img-circle entry-avatar" alt="{{ post.figcaption }}" %}
+          {% picture thumb_index {{ post.figure }} class="img-circle entry-avatar" %}
         </a>
       {% endif %}
       <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-      {% include page-info.html %}
+      {% include page-info.html post=post %}
     </header>
     <div class="entry-description">
       <p>
