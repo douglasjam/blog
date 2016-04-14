@@ -3,34 +3,34 @@ layout: default
 title: Douglas
 ---
 {% for post in paginator.posts %}
-  <section class="post">
-    <header class="entry-header">
-      {% if post.figure %}
-        <a href="{{ site.url }}{{ post.url }}">
-
-        </a>
-      {% endif %}
-      {% include page-title.html url=post.url title=post.title %}
-      {% include page-info.html date=post.date categories=post.categories %}
-    </header>
-    <div class="entry-description">
-      <p>
-        {{ post.content | strip_html | truncatewords: 30 }}
-      </p>
-    </div>
-  </section>
+<section class="post">
+  <header class="entry-header">
+    {% if post.figure %}
+    <a href="{{ site.url }}{{ post.url }}">
+      {% picture thumb_index {{ post.figure }} class="img-circle entry-avatar" %}
+    </a>
+    {% endif %}
+    {% include page-title.html url=post.url title=post.title %}
+    {% include page-info.html date=post.date categories=post.categories %}
+  </header>
+  <div class="entry-description">
+    <p>
+      {{ post.content | strip_html | truncatewords: 30 }}
+    </p>
+  </div>
+</section>
 {% endfor %}
 
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
-    <span class="previous">Previous</span>
+  <span class="previous">Previous</span>
   {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next</a>
+  <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
-    <span class="next ">Next</span>
+  <span class="next ">Next</span>
   {% endif %}
 </div>

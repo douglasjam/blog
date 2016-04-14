@@ -1,14 +1,11 @@
 ---
 layout: default
 ---
-{% if post.figure %}
-  <img src="/resources/img/tmp.jpg" class="img-responsive">
-{% endif %}
 
 <section class="post">
   <header class="entry-header">
-    {% include page-title.html url=post.url title=post.title %}
-    {% include page-info.html date=post.date categories=post.categories %}
+    {% include page-title.html url=page.url title=page.title %}
+    {% include page-info.html date=page.date categories=page.categories %}
   </header>
   <div class="entry-description">
     {{ content }}
