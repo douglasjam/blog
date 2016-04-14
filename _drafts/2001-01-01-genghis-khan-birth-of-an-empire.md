@@ -1,5 +1,5 @@
 <figure>
-	<img align="right" alt="Livro Genghis Khan - Birth of an Empire" src="{{ site.url }}/resources/img/genghiskhan-birthempires.jpg" />
+	<img align="right" alt="Livro Genghis Khan - Birth of an Empire" src="{{ site.base_url }}resources/img/genghiskhan-birthempires.jpg" />
 	<figcaption>Livro Genghis Khan - Birth of an Empire</figcaption>
 </figure>
 

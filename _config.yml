@@ -1,6 +1,6 @@
 title: douglasjam
 description: Um rascunho sobre as coisas que faco, dentre elas, computacao, eletronica, viagens e coisas do dia a dia.
-url: http://www.douglasjam.com.br
+base_url: /
 markdown: redcarpet
 highlighter: rouge
 author: Douglas J.A.M

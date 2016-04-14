@@ -10,7 +10,7 @@ Depois que consegui imigrar para a Alemanha, alguns amigos me perguntaram como e
 
 **1- Idioma:**
 
-<img align="right" alt="Trabalhando remotamente na Praia" src="{{ site.url }}/resources/img/workabroad.jpg" />
+<img align="right" alt="Trabalhando remotamente na Praia" src="{{ site.base_url }}resources/img/workabroad.jpg" />
 
 O primeiro passo que você tem que ver e o idioma, se você terá condições de se comunicar no pais que deseja, dependendo do pais, como no meu caso, que imigrei para a Alemanha, eu não precisei falar a alemão, pois a empresa a qual me candidatei tinha como idioma o inglês, e o a população aqui em sua grande maioria consegue se comunicar em inglês, porem, tenha em mente o ideal e que você fale o idioma do pais que mora para que se socialize melhor.
 

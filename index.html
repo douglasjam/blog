@@ -6,7 +6,7 @@ title: Douglas
 <section class="post">
   <header class="entry-header">
     {% if post.figure %}
-    <a href="{{ site.url }}{{ post.url }}">
+    <a href="{{ site.base_url }}{{ post.url }}">
       {% picture thumb_index {{ post.figure }} class="img-circle entry-avatar" %}
     </a>
     {% endif %}
@@ -23,13 +23,13 @@ title: Douglas
 
 <div class="pagination">
   {% if paginator.previous_page %}
-  <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  <a href="{{ site.base_url }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
   <span class="previous">Previous</span>
   {% endif %}
   <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-  <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">Next</a>
+  <a href="{{ site.base_url }}{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
   <span class="next ">Next</span>
   {% endif %}

@@ -6,7 +6,7 @@
     {% if include.categories.size > 0 %}
         | Categories
         {% for categorie in include.categories %}
-            <a class="label label-danger" href="{{ site.url }}{{ categorie }}">{{ categorie }}</a>
+            <a class="label label-danger" href="{{ site.base_url }}{{ categorie }}">{{ categorie }}</a>
         {% endfor %}
     {% endif %}
 </p>
