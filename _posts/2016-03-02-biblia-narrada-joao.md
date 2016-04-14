@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bíblia Narrada &#8211; João'
-figure: /resources/img/joao.jpg
+figure: resources/img/joao.jpg
 figcaption: Foto do Livro de João
 categories:
   - Bíblia Narrada
@@ -19,7 +19,7 @@ Com o tempo a partir do meu aperfeiçoamento, irei substituindo as gravações i
 <div class="cue-playlist-container">
   <div class="cue-playlist" itemscope itemtype="http://schema.org/MusicPlaylist">
     <meta itemprop="numTracks" content="3" />
-    <audio src="/resources/mp3/biblia-narrada/joao/joao-1.mp3" controls preload="none" class="cue-audio" style="width: 100%; height: auto"></audio>
+    <audio src="resources/mp3/biblia-narrada/joao/joao-1.mp3" controls preload="none" class="cue-audio" style="width: 100%; height: auto"></audio>
 
     <ol class="cue-tracks">
       <li class="cue-track" itemprop="track" itemscope itemtype="http://schema.org/MusicRecording">

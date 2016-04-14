@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Viagem Paris/França
-figure: /resources/img/fr_eifel.jpg
+figure: resources/img/fr_eifel.jpg
 figcaption: Torre Eifel
 categories:
   - Viagens
