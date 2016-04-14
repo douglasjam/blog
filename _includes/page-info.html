@@ -1,11 +1,11 @@
 <p class="entry-meta">
     Posted on
-    {% if page.date %}
-        <a class="entry-date" href="date.html">{{ page.date | date_to_string }}</a>
+    {% if include.date %}
+        <a class="entry-date" href="#">{{ include.date | date_to_string }}</a>
     {% endif %}
-    {% if page.categories.size > 0 %}
+    {% if include.categories.size > 0 %}
         | Categories
-        {% for categorie in post.categories %}
+        {% for categorie in include.categories %}
             <a class="label label-danger" href="{{ site.url }}{{ categorie }}">{{ categorie }}</a>
         {% endfor %}
     {% endif %}

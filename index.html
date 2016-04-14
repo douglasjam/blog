@@ -10,8 +10,8 @@ title: Douglas
 
         </a>
       {% endif %}
-      {% include page-title.html page=post %}
-      {% include page-info.html page=post %}
+      {% include page-title.html url=post.url title=post.title %}
+      {% include page-info.html date=post.date categories=post.categories %}
     </header>
     <div class="entry-description">
       <p>

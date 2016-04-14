@@ -1,6 +1,6 @@
 title: douglasjam
 description: Um rascunho sobre as coisas que faco, dentre elas, computacao, eletronica, viagens e coisas do dia a dia.
-url: http://www.douglasjam.com.br
+url:
 markdown: redcarpet
 highlighter: rouge
 author: Douglas J.A.M
@@ -12,9 +12,25 @@ urls:
     url: https://www.linkedin.com/in/douglasjam
   - text: instagram
     url: https://www.instagram.com/douglasjam
-
+#picture:
+#  output: "resources/generated"
+#  markup: "picture"
+#  presets:
+#    default:
+#      ppi: [1, 1.5, 2]
+#      source_large:
+#        media: "(min-width: 480px)"
+#        width: "252"
+#      source_default:
+#        width: "480"
+#    thumb_index:
+#      ppi: [1, 1.5, 2]
+#      source_default:
+#        width: "10"
+#        height: "150"
 gems :
   - jekyll-paginate
+  #- jekyll-picture-tag
 # todo's
 # multilingual support
 # https://github.com/screeninteraction/jekyll-multiple-languages-plugin
