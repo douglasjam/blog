@@ -7,8 +7,8 @@ layout: default
 
 <section class="post">
   <header class="entry-header">
-    {% include page-title.html %}
-    {% include page-info.html %}
+    {% include page-title.htmlre url=post.url title=post.title %}
+    {% include page-info.html date=post.date categories=post.categories %}
   </header>
   <div class="entry-description">
     {{ content }}
