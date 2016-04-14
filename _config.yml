@@ -14,8 +14,7 @@ urls:
     url: https://www.instagram.com/douglasjam
 
 gems :
-
-  - jekyll-picture-tag
+  - jekyll-paginate
 # todo's
 # multilingual support
 # https://github.com/screeninteraction/jekyll-multiple-languages-plugin
