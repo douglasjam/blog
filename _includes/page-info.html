@@ -1,9 +1,12 @@
 <p class="entry-meta">
-    Posted on <a class="entry-date" href="date.html">{{ page.date | date_to_string }}</a>
-    {% if post.categories.size > 0 %}
-    | Categories
-    {% for categorie in post.categories %}
-    <a class="label label-danger" href="{{ site.url }}{{ categorie }}">{{ categorie }}</a>
-    {% endfor %}
+    Posted on
+    {% if page.date %}
+        <a class="entry-date" href="date.html">{{ page.date | date_to_string }}</a>
+    {% endif %}
+    {% if page.categories.size > 0 %}
+        | Categories
+        {% for categorie in post.categories %}
+            <a class="label label-danger" href="{{ site.url }}{{ categorie }}">{{ categorie }}</a>
+        {% endfor %}
     {% endif %}
 </p>

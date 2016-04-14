@@ -10,8 +10,8 @@ title: Douglas
           {% picture thumb_index {{ post.figure }} class="img-circle entry-avatar" %}
         </a>
       {% endif %}
-      <h2 class="entry-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-      {% include page-info.html %}
+      {% include page-title.html page=post %}
+      {% include page-info.html page=post %}
     </header>
     <div class="entry-description">
       <p>
