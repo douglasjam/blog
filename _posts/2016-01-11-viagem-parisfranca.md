@@ -6,7 +6,7 @@ figcaption: Torre Eifel
 categories:
   - Viagens
 ---
-Neste feriado prolongado do final do ano de 2015 resolvi dar uma passeada, e por ser inverno, cogitei ir para Franca, pois, outros lugares gostaria de deixar para ver com sol e flores, como por exemplo a Holanda e Espanha.<figure id="attachment_77" style="width: 300px" class="wp-caption alignright">
+Neste feriado prolongado do final do ano de 2015 resolvi dar uma passeada, e por ser inverno, cogitei ir para Franca, pois, outros lugares gostaria de deixar para ver com sol e flores, como por exemplo a Holanda e Espanha.
 
 {% include thumbnail-right.html image="/resources/img/fr_eifel.jpg" caption="Torre Eiffel" %}
 
@@ -18,17 +18,17 @@ Para a passagem de avião, utilizei o SkyScanner para buscar a melhor tarifa, ne
 
 Na acomodação, procurei a melhor com melhor custo beneficio, pelo Booking.com os hotéis mais baratos estavam com diária de 50 €, porem eu já havia ouvido falar do AirBnB e gostaria de tentar dessa vez, acabei achando um bem próximo da torre Eiffel pelo mesmo preço. Achei bem em conta, visto que por esse preço eu tinha um pequeno apartamento só para mim, o qual podia acomodar ate 4 pessoas, com cozinha e os demais itens essenciais, assim eu economizaria também tomando café e ate jantando em casa mesmo.
 
-Para planejar o meu roteiro de passeios, utilizei alguns sites como tripomatic.com e routeperfect.com porem acabei fazendo vários tipos de pesquisa relacionada a “Top Places Paris” no Google. E após definir o que eu iria ver, acabei notando que sempre tenho que pagar alguma taxa, e como a quantidade era grande, acabei optando por comprar um [passe para os museums](mailto:http://en.parismuseumpass.com/) de quatro dias, ele dava acesso a alguns museus e monumentos, o que deu uma boa economizada nos meus gastos.<figure id="attachment_72" style="width: 300px" class="wp-caption alignright">
+Para planejar o meu roteiro de passeios, utilizei alguns sites como tripomatic.com e routeperfect.com porem acabei fazendo vários tipos de pesquisa relacionada a “Top Places Paris” no Google. E após definir o que eu iria ver, acabei notando que sempre tenho que pagar alguma taxa, e como a quantidade era grande, acabei optando por comprar um <a href="http://en.parismuseumpass.com/" target="_blank">passe para os museums<\a> de quatro dias, ele dava acesso a alguns museus e monumentos, o que deu uma boa economizada nos meus gastos.
 
 {% include thumbnail-right.html image="/resources/img/eifel_sacre.jpg" caption="Basílica de Sacré-Cœur" %}
 
-Para me locomover lá, fiquei cogitando comprar um SimCard pré-pago, porem onde tentei comprar o pessoal apenas vendia oSimCard, não ativava para mim, então já fui preparado com uns mapas off-line para o meu Android. Deixei o Google Maps com o mapa de Paris instalado, e instalei o aplicativo do metro [RATP](mailto:https://play.google.com/store/apps/details%3Fid=net.ixxi.ratp.tourisme). No fim eles me serviram, não cheguei a precisar comprar o SimCard extra nem pagar roaming, para me locomover, apenas utilizei o metro, o qual tem uma boa cobertura e um preço barato, não cheguei a comprar nenhum pacote semanal, apenas os pacotes T+ que vem 10 tickets por 1,42 € se não me engano, as únicas vezes que tive que pagar mais, foi para ir o Aeroporto ao Centro (10 €~), e do centro ao Palácio de Versalhes (4 €~) e vice versa.
+Para me locomover lá, fiquei cogitando comprar um SimCard pré-pago, porem onde tentei comprar o pessoal apenas vendia oSimCard, não ativava para mim, então já fui preparado com uns mapas off-line para o meu Android. Deixei o Google Maps com o mapa de Paris instalado, e instalei o aplicativo do metro <a href="https://play.google.com/store/apps/details%3Fid=net.ixxi.ratp.tourisme" target="_blank">RATP</a>. No fim eles me serviram, não cheguei a precisar comprar o SimCard extra nem pagar roaming, para me locomover, apenas utilizei o metro, o qual tem uma boa cobertura e um preço barato, não cheguei a comprar nenhum pacote semanal, apenas os pacotes T+ que vem 10 tickets por 1,42 € se não me engano, as únicas vezes que tive que pagar mais, foi para ir o Aeroporto ao Centro (10 €~), e do centro ao Palácio de Versalhes (4 €~) e vice versa.
 
 Meus principais pontos para visitar foram os descritos abaixo em ordem, programado para 5 dias, ficando 2 dias de reserva para visitas e possíveis erros ou mudanças, acabou que acabei quebrando a cara algumas vezes, indo ate o lugar, e o lugar estando em greve, como foi o caso da Santa Basílica, outros, no dia que fui estava fechado, tive que voltar no seguinte e outros a fila estava tão grande que não daria mais tempo no mesmo dia, mas no final acabou dando tudo certo, e legal adiciona-los no seu aplicativo de mapa, para saber quais estão próximos de quais, afim de aproveitar e já visita-lo e ate economizar um ticket do metro. Acabei visitando alguns outros, mas não me recordo mais.
 
 **A Santa Capela**
 
-Recomendo a visita, e uma visita curta, porem suas vidraças são excepcionais, bem como a arquitetura interna, porem se seu tempo estiver curto e a fila muito grande, recomendo pular.<figure id="attachment_74" style="width: 169px" class="wp-caption alignright">
+Recomendo a visita, e uma visita curta, porem suas vidraças são excepcionais, bem como a arquitetura interna, porem se seu tempo estiver curto e a fila muito grande, recomendo pular.
 
 {% include thumbnail-right.html image="/resources/img/fr_arco.jpg" caption="Arco do Triumfo" %}
 
@@ -46,7 +46,7 @@ Arquitetura incrível, recomendo a visita, tanto dentro, quanto no andar superio
 
 **Catacumbas de Paris**
 
-Um túnel subterrâneo utilizado como cemitério na revolução francesa, muito legal atravessar ele e ver vários ossos e esqueletos, caso você vá, vá mais cedo para pegar uma fichinha, pois como e limitado o numero de pessoas dentro do túnel em 100 se não me engano, eles preferem distribuir as fichas com horários, assim você não se frustra em ficar o dia todo na fila e não entrar. O ideal e chegar umas 08am, assim você pega fichinha para entrar as 10, e nesse intervalo de espera, você aproveita e vai conhecer uma padaria com seus doces franceses.<figure id="attachment_75" style="width: 300px" class="wp-caption alignright">
+Um túnel subterrâneo utilizado como cemitério na revolução francesa, muito legal atravessar ele e ver vários ossos e esqueletos, caso você vá, vá mais cedo para pegar uma fichinha, pois como e limitado o numero de pessoas dentro do túnel em 100 se não me engano, eles preferem distribuir as fichas com horários, assim você não se frustra em ficar o dia todo na fila e não entrar. O ideal e chegar umas 08am, assim você pega fichinha para entrar as 10, e nesse intervalo de espera, você aproveita e vai conhecer uma padaria com seus doces franceses.
 
 {% include thumbnail-right.html image="/resources/img/fr_catatumbas.jpg" caption="Catacumbas de Paris" %}
 
@@ -64,7 +64,7 @@ Um ótimo lugar para descansar, ler um livro, pegar um sol, uma pena que no inve
 
 **La Defense**
 
-Uma praça com jardim, um chafariz, lago e varias outras coisas legais, recomendo a visita.<figure id="attachment_76" style="width: 300px" class="wp-caption alignright">
+Uma praça com jardim, um chafariz, lago e varias outras coisas legais, recomendo a visita.
 
 {% include thumbnail-right.html image="/resources/img/fr_egito.jpg" caption="Seção egípcia no museu do Louvre" %}
 
@@ -78,7 +78,7 @@ Um cabaré muito antigo, que hoje virou uma discoteca não cheguei a entrar nem 
 
 **Museu de Louvre**
 
-A pintura da Monalisa se encontra neste, além de ter varias outras pintura e obras legais, como por exemplo, pecas egípcias e armaduras da Guerra, eu recomendo! Porem se for querer mesmo ver o museu inteiro, reserve ao menos umas 5 horas para olhar correndo.<figure id="attachment_73" style="width: 300px" class="wp-caption alignright">
+A pintura da Monalisa se encontra neste, além de ter varias outras pintura e obras legais, como por exemplo, pecas egípcias e armaduras da Guerra, eu recomendo! Porem se for querer mesmo ver o museu inteiro, reserve ao menos umas 5 horas para olhar correndo.
 
 {% include thumbnail-right.html image="/resources/img/eifel_tinta.jpg" caption="Artistas em Montmatre" %}
 
@@ -96,7 +96,7 @@ Uma antiga igreja que acabou sendo transformada em mausoléu, tem uma arquitetur
 
 **Pompidou Center**
 
-Museu de artes modernas, eu particularmente não gosto deste tipo de arte.<figure id="attachment_80" style="width: 300px" class="wp-caption alignright">
+Museu de artes modernas, eu particularmente não gosto deste tipo de arte.
 
 {% include thumbnail-right.html image="/resources/img/filas.jpg" caption="Filas em Paris" %}
 
