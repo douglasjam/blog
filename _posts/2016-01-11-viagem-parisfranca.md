@@ -9,7 +9,7 @@ categories:
 Neste feriado prolongado do final do ano de 2015 resolvi dar uma passeada, e por ser inverno, cogitei ir para Franca, pois, outros lugares gostaria de deixar para ver com sol e flores, como por exemplo a Holanda e Espanha.<figure id="attachment_77" style="width: 300px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="Torre Eiffel" src="{{ site.base_url }}resources/img/fr_eifel.jpg" />
+    {% picture thumb_index "resources/img/fr_eifel.jpg" alt="Torre Eiffel" %}
 	<figcaption>Torre Eiffel</figcaption>
 </figure>
 
@@ -18,7 +18,7 @@ Como o feriado era bem longo, do dia 24 de dezembro à 04 de janeiro, 11 dias, e
 Para a passagem de avião, utilizei o SkyScanner para buscar a melhor tarifa, nele há uma opção para comparar todos os dias, me indicou a melhor data de partida-retorno na qual deu um total de 80 € voando pela GermanWings, a qual cumpre seu papel bem, a única coisa estranha e que você não tem direito a nada, nem um copo d’água de graça pela tarifa supereconômica.
 
 <figure>
-	<img align="right" alt="Pintura de Luis XIV" src="{{ site.base_url }}resources/img/fr_quadro.jpg" />
+	{% picture thumb_index "resources/img/fr_quadro.jpg" alt="Pintura de Luis XIV" %}
 	<figcaption>Pintura de Luis XIV</figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Na acomodação, procurei a melhor com melhor custo beneficio, pelo Booking.com 
 Para planejar o meu roteiro de passeios, utilizei alguns sites como tripomatic.com e routeperfect.com porem acabei fazendo vários tipos de pesquisa relacionada a “Top Places Paris” no Google. E após definir o que eu iria ver, acabei notando que sempre tenho que pagar alguma taxa, e como a quantidade era grande, acabei optando por comprar um [passe para os museums](mailto:http://en.parismuseumpass.com/) de quatro dias, ele dava acesso a alguns museus e monumentos, o que deu uma boa economizada nos meus gastos.<figure id="attachment_72" style="width: 300px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="Basílica de Sacré-Cœur" src="{{ site.base_url }}resources/img/eifel_sacre.jpg" />
+	{% picture thumb_index "resources/img/eifel_sacre.jpg" alt="Basílica de Sacré-Cœur" %}
 	<figcaption>Basílica de Sacré-Cœur</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Meus principais pontos para visitar foram os descritos abaixo em ordem, programa
 Recomendo a visita, e uma visita curta, porem suas vidraças são excepcionais, bem como a arquitetura interna, porem se seu tempo estiver curto e a fila muito grande, recomendo pular.<figure id="attachment_74" style="width: 169px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="Arco do Triumfo" src="{{ site.base_url }}resources/img/fr_arco.jpg" />
+    {% picture thumb_index "resources/img/fr_arco.jpg" alt="Arco do Triumfo" %}
 	<figcaption>Arco do Triumfo</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Arquitetura incrível, recomendo a visita, tanto dentro, quanto no andar superio
 Um túnel subterrâneo utilizado como cemitério na revolução francesa, muito legal atravessar ele e ver vários ossos e esqueletos, caso você vá, vá mais cedo para pegar uma fichinha, pois como e limitado o numero de pessoas dentro do túnel em 100 se não me engano, eles preferem distribuir as fichas com horários, assim você não se frustra em ficar o dia todo na fila e não entrar. O ideal e chegar umas 08am, assim você pega fichinha para entrar as 10, e nesse intervalo de espera, você aproveita e vai conhecer uma padaria com seus doces franceses.<figure id="attachment_75" style="width: 300px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="Catacumbas de Paris" src="{{ site.base_url }}resources/img/fr_catatumbas.jpg" />
+    {% picture thumb_index "resources/img/fr_catatumbas.jpg" alt="Catacumbas de Paris" %}
 	<figcaption>Catacumbas de Paris</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Um ótimo lugar para descansar, ler um livro, pegar um sol, uma pena que no inve
 Uma praça com jardim, um chafariz, lago e varias outras coisas legais, recomendo a visita.<figure id="attachment_76" style="width: 300px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="Seção egípcia no museu do Louvre" src="{{ site.base_url }}resources/img/fr_egito.jpg" />
+    {% picture thumb_index "resources/img/fr_egito.jpg" alt="Seção egípcia no museu do Louvre" %}
 	<figcaption>Seção egípcia no museu do Louvre</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Um cabaré muito antigo, que hoje virou uma discoteca não cheguei a entrar nem 
 A pintura da Monalisa se encontra neste, além de ter varias outras pintura e obras legais, como por exemplo, pecas egípcias e armaduras da Guerra, eu recomendo! Porem se for querer mesmo ver o museu inteiro, reserve ao menos umas 5 horas para olhar correndo.<figure id="attachment_73" style="width: 300px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="Artistas em Montmatre" src="{{ site.base_url }}resources/img/eifel_tinta.jpg" />
+	{% picture thumb_index "resources/img/eifel_tinta.jpg" alt="Artistas em Montmatre" %}
 	<figcaption>Artistas em Montmatre</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ Uma antiga igreja que acabou sendo transformada em mausoléu, tem uma arquitetur
 Museu de artes modernas, eu particularmente não gosto deste tipo de arte.<figure id="attachment_80" style="width: 300px" class="wp-caption alignright">
 
 <figure>
-	<img align="right" alt="Filas em Paris" src="{{ site.base_url }}resources/img/filas.jpg" />
+	{% picture thumb_index "resources/img/filas.jpg" alt="Filas em Paris" %}
 	<figcaption>Filas em Paris</figcaption>
 </figure>
 
