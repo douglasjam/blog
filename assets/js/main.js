@@ -1,6 +1,6 @@
 $(function(){
 
-    $('.swipebox').swipebox();
+    $('a.fluidbox').fluidbox();
 
     var toggleSidebar = $("#togglesidebar");
     var primary = $("#primary");
