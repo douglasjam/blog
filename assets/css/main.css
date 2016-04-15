@@ -242,3 +242,8 @@ a, a:focus, a:hover {
     }
 
 }
+
+
+.thumbnail-right {
+    float: right;
+}
