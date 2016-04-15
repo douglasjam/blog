@@ -6,7 +6,7 @@ figcaption: Minha ex-bicicleta
 categories:
   - Alemanha
 ---
-{% picture thumb_index "resources/img/bicycle.jpg" alt="Minha ex bicicleta" %}
+{% picture thumb_index resources/img/bicycle.jpg alt="Minha ex bicicleta" %}
 
 Assim que me mudei para cá, decidi não ter mais carro, além de ser uma economia, seria uma transformação nos meus hábitos do Brasil, onde eu utilizava o carro ate para ir ao Shopping que ficava a 2km da minha casa, um dos fatores para fazer isso aqui e não no brasil, e por que o transporte publico aqui e muito bom, cobrindo praticamente a cidade inteira de metro, os ônibus são de qualidade e existem bastante ciclovias, onde estas são bem sinalizadas e respeitadas.
 
