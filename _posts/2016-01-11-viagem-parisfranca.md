@@ -8,34 +8,19 @@ categories:
 ---
 Neste feriado prolongado do final do ano de 2015 resolvi dar uma passeada, e por ser inverno, cogitei ir para Franca, pois, outros lugares gostaria de deixar para ver com sol e flores, como por exemplo a Holanda e Espanha.<figure id="attachment_77" style="width: 300px" class="wp-caption alignright">
 
-<a href="/resources/img/fr_eifel.jpg" class="swipebox" title="Torre Eiffel">
-    <figure>
-        {% picture thumb_index resources/img/fr_eifel.jpg alt="Torre Eiffel" %}
-        <figcaption>Torre Eiffel</figcaption>
-    </figure>
-</a>
+{% include thumbnail-right.html image="/resources/img/fr_eifel.jpg" caption="Torre Eiffel" %}
 
 Como o feriado era bem longo, do dia 24 de dezembro à 04 de janeiro, 11 dias, eu tinha que decidir quantos dias iria ficar por lá,acabei optando por 7 dias, a partir disso fiz alguns trajetos, porem as cidades mais populares da Franca ficam bem distantes entre si, com percursos de ate 8h de carro, e como meu ponto de partida e saída seria Paris, acabei focando apenas em Paris.
 
 Para a passagem de avião, utilizei o SkyScanner para buscar a melhor tarifa, nele há uma opção para comparar todos os dias, me indicou a melhor data de partida-retorno na qual deu um total de 80 € voando pela GermanWings, a qual cumpre seu papel bem, a única coisa estranha e que você não tem direito a nada, nem um copo d’água de graça pela tarifa supereconômica.
 
-<a href="/resources/img/fr_quadro.jpg" class="swipebox" title="Pintura de Luis XIV">
-    <figure>
-        {% picture thumb_index resources/img/fr_quadro.jpg alt="Pintura de Luis XIV" %}
-        <figcaption>Pintura de Luis XIV</figcaption>
-    </figure>
-</a>
+{% include thumbnail-right.html image="/resources/img/fr_quadro.jpg" caption="Pintura de Luis XIV" %}
 
 Na acomodação, procurei a melhor com melhor custo beneficio, pelo Booking.com os hotéis mais baratos estavam com diária de 50 €, porem eu já havia ouvido falar do AirBnB e gostaria de tentar dessa vez, acabei achando um bem próximo da torre Eiffel pelo mesmo preço. Achei bem em conta, visto que por esse preço eu tinha um pequeno apartamento só para mim, o qual podia acomodar ate 4 pessoas, com cozinha e os demais itens essenciais, assim eu economizaria também tomando café e ate jantando em casa mesmo.
 
 Para planejar o meu roteiro de passeios, utilizei alguns sites como tripomatic.com e routeperfect.com porem acabei fazendo vários tipos de pesquisa relacionada a “Top Places Paris” no Google. E após definir o que eu iria ver, acabei notando que sempre tenho que pagar alguma taxa, e como a quantidade era grande, acabei optando por comprar um [passe para os museums](mailto:http://en.parismuseumpass.com/) de quatro dias, ele dava acesso a alguns museus e monumentos, o que deu uma boa economizada nos meus gastos.<figure id="attachment_72" style="width: 300px" class="wp-caption alignright">
 
-<a href="/resources/img/eifel_sacre.jpg" class="swipebox" title="Basílica de Sacré-Cœur">
-    <figure>
-        {% picture thumb_index resources/img/eifel_sacre.jpg alt="Basílica de Sacré-Cœur" %}
-        <figcaption>Basílica de Sacré-Cœur</figcaption>
-    </figure>
-</a>
+{% include thumbnail-right.html image="/resources/img/eifel_sacre.jpg" caption="Basílica de Sacré-Cœur" %}
 
 Para me locomover lá, fiquei cogitando comprar um SimCard pré-pago, porem onde tentei comprar o pessoal apenas vendia oSimCard, não ativava para mim, então já fui preparado com uns mapas off-line para o meu Android. Deixei o Google Maps com o mapa de Paris instalado, e instalei o aplicativo do metro [RATP](mailto:https://play.google.com/store/apps/details%3Fid=net.ixxi.ratp.tourisme). No fim eles me serviram, não cheguei a precisar comprar o SimCard extra nem pagar roaming, para me locomover, apenas utilizei o metro, o qual tem uma boa cobertura e um preço barato, não cheguei a comprar nenhum pacote semanal, apenas os pacotes T+ que vem 10 tickets por 1,42 € se não me engano, as únicas vezes que tive que pagar mais, foi para ir o Aeroporto ao Centro (10 €~), e do centro ao Palácio de Versalhes (4 €~) e vice versa.
 
@@ -45,12 +30,7 @@ Meus principais pontos para visitar foram os descritos abaixo em ordem, programa
 
 Recomendo a visita, e uma visita curta, porem suas vidraças são excepcionais, bem como a arquitetura interna, porem se seu tempo estiver curto e a fila muito grande, recomendo pular.<figure id="attachment_74" style="width: 169px" class="wp-caption alignright">
 
-<a href="/resources/img/fr_arco.jpg" class="swipebox" title="Arco do Triumfo">
-    <figure>
-        {% picture thumb_index resources/img/fr_arco.jpg alt="Arco do Triumfo" %}
-        <figcaption>Arco do Triumfo</figcaption>
-    </figure>
-</a>
+{% include thumbnail-right.html image="/resources/img/fr_arco.jpg" caption="Arco do Triumfo" %}
 
 **Arco do Triunfo**
 
@@ -68,12 +48,7 @@ Arquitetura incrível, recomendo a visita, tanto dentro, quanto no andar superio
 
 Um túnel subterrâneo utilizado como cemitério na revolução francesa, muito legal atravessar ele e ver vários ossos e esqueletos, caso você vá, vá mais cedo para pegar uma fichinha, pois como e limitado o numero de pessoas dentro do túnel em 100 se não me engano, eles preferem distribuir as fichas com horários, assim você não se frustra em ficar o dia todo na fila e não entrar. O ideal e chegar umas 08am, assim você pega fichinha para entrar as 10, e nesse intervalo de espera, você aproveita e vai conhecer uma padaria com seus doces franceses.<figure id="attachment_75" style="width: 300px" class="wp-caption alignright">
 
-<a href="/resources/img/fr_catatumbas.jpg" class="swipebox" title="Catacumbas de Paris">
-    <figure>
-        {% picture thumb_index resources/img/fr_catatumbas.jpg alt="Catacumbas de Paris" %}
-        <figcaption>Catacumbas de Paris</figcaption>
-    </figure>
-</a>
+{% include thumbnail-right.html image="/resources/img/fr_catatumbas.jpg" caption="Catacumbas de Paris" %}
 
 **Catedral de Notre Dame**
 
@@ -91,12 +66,7 @@ Um ótimo lugar para descansar, ler um livro, pegar um sol, uma pena que no inve
 
 Uma praça com jardim, um chafariz, lago e varias outras coisas legais, recomendo a visita.<figure id="attachment_76" style="width: 300px" class="wp-caption alignright">
 
-<a href="/resources/img/fr_egito.jpg" class="swipebox" title="Seção egípcia no museu do Louvre">
-    <figure>
-        {% picture thumb_index resources/img/fr_egito.jpg alt="Seção egípcia no museu do Louvre" %}
-        <figcaption>Seção egípcia no museu do Louvre</figcaption>
-    </figure>
-</a>
+{% include thumbnail-right.html image="/resources/img/fr_egito.jpg" caption="Seção egípcia no museu do Louvre" %}
 
 **Montmartre**
 
@@ -110,12 +80,7 @@ Um cabaré muito antigo, que hoje virou uma discoteca não cheguei a entrar nem 
 
 A pintura da Monalisa se encontra neste, além de ter varias outras pintura e obras legais, como por exemplo, pecas egípcias e armaduras da Guerra, eu recomendo! Porem se for querer mesmo ver o museu inteiro, reserve ao menos umas 5 horas para olhar correndo.<figure id="attachment_73" style="width: 300px" class="wp-caption alignright">
 
-<a href="/resources/img/eifel_tinta.jpg" class="swipebox" title="Artistas em Montmatre">
-    <figure>
-        {% picture thumb_index resources/img/eifel_tinta.jpg alt="Artistas em Montmatre" %}
-        <figcaption>Artistas em Montmatre</figcaption>
-    </figure>
-</a>
+{% include thumbnail-right.html image="/resources/img/eifel_tinta.jpg" caption="Artistas em Montmatre" %}
 
 **Palácio Chaillot**
 
@@ -133,12 +98,7 @@ Uma antiga igreja que acabou sendo transformada em mausoléu, tem uma arquitetur
 
 Museu de artes modernas, eu particularmente não gosto deste tipo de arte.<figure id="attachment_80" style="width: 300px" class="wp-caption alignright">
 
-<a href="/resources/img/filas.jpg" class="swipebox" title="Filas em Paris">
-    <figure>
-        {% picture thumb_index resources/img/filas.jpg alt="Filas em Paris" %}
-        <figcaption>Filas em Paris</figcaption>
-    </figure>
-</a>
+{% include thumbnail-right.html image="/resources/img/filas.jpg" caption="Filas em Paris" %}
 
 **Praça da Concordia**
 
