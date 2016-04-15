@@ -1,5 +1,7 @@
 $(function(){
 
+    $('.swipebox').swipebox();
+
     var toggleSidebar = $("#togglesidebar");
     var primary = $("#primary");
     var secondary = $("#secondary");
