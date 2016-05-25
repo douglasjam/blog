@@ -5,7 +5,7 @@ published: true
 categories:
   - Alemanha
   - Hamburgo
-------------
+---
 
 Morando na Alemanha nem sempre e facil achar medicos que falam portugues, pois nada melhor do que tratar deste assunto complicado na sua lingua
 nativa, porem sempre se encontra algum que fala ingles ou espanhol, portanto vou aqui listando os que encontrei pela internet ou recomendacoes. 
