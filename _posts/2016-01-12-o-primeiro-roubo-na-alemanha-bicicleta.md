@@ -3,8 +3,8 @@ layout: post
 title: 'Bicicleta na Alemanha &#8211; roubaram a minha'
 figure: resources/img/bicycle.jpg
 figcaption: Minha ex-bicicleta
-categories:
-  - Alemanha
+category: PHP
+tags: [alemanha, bicicleta, roubo]
 ---
 {% picture thumb_index resources/img/bicycle.jpg alt="Minha ex bicicleta" %}
 
@@ -29,8 +29,4 @@ As regras são inúmeras, você pode conferir melhor neste [website](mailto:http
 
 Voltando ao tema principal do tópico, aqui tem uma taxa bem alta de roubos de bicicletas, tanto que todas as bicicletas são presas com correntes e cadeados, algumas vezes, dois ou três cadeados, o que não acontece com carros e algumas casas. Talvez seja mais tranquilo em algumas cidades menores, porém em Hamburgo e Berlin, como são cidades grandes e com bastante imigrantes, o roubo e iminente, pelo menos foi o que encontrei pesquisando na internet após o ocorrido. Li também no Reddit, que pessoas trabalham com isso, pois pelo preço que revendem, roubando uma bicicleta por dia, e fácil se manter =D. Algumas pessoas ate contratam seguros contra roubo para as bicicletas, o que pode sair em conta dependendo do valor da sua bicicleta. Segundo este [site](mailto:http://www.thelocal.de/20140717/germanys-vicious-cycle-of-bike-thefts), em Berlin em torno de 317 mil bicicleta foram roubadas e reportadas em 2013, o que pode estar muito longe do real, pois muitas pessoas não reportam, como foi o meu caso.
 
-&nbsp;
-
 O meu caso foi o seguinte, comprei a bicicleta igual a da imagem por 279 euros, e ia e voltava do trabalho todo dia com ela. Sempre deixando ela trancada em frente ao escritório e na minha casa, onde ambos lugares tem uns postes de ferro para se trancar a bicicleta. O cadeado tinha pelo menos um polegar de espessura, revestido de uma borracha grossa. Um dia simplesmente fui dormir, e ao acordar a mesma não estava lá, nem a corrente, ou alguma lembrança dela. Creio eu que o cadeado que comprei, apesar da espessura, não tinha uma tranca muito boa, podendo ser facilmente forcado por uma chave de fenda, ou ate mesmo aberto com facilidade por um kit chaveiro. Não cheguei a ir a policia reportar o roubo, porem ainda penso na delegacia, mesmo falando um mínimo de alemão, pois li também uma reportagem no [link mencionado acima](mailto:http://www.thelocal.de/20140717/germanys-vicious-cycle-of-bike-thefts) que em Berlin 9% das bicicletas foram recuperadas, quem sabe eu não entro nessa estatística.
-
-&nbsp;

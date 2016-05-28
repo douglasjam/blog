@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Criar Link Simbólico
-categories:
-  - Cloud
-  - Linux
-  - Windows
+category: Linux
+tags: [linux, windows, dropbox, google-drive, link-simbolico]
 ---
 Para quem utiliza algum serviço de armazenamento nas nuvens, seja Dropbox, Google Drive, Skydrive ou afins, sempre se deparou com a questão que eles impõem, somente será sincronizado o que estiver na pasta X. Porém as vezes a gente se depara com a situação que o diretório que queremos fazer um backup nas nuvens talvez possa não ficar dentro da pasta que eles querem, como por exemplo, se você quiser fazer backup de algum arquivo/pasta que está em rede, ou dentro da pasta de algum programa especifico, ou acessar dentro do apache um diretorio fora do atual, ou seja um savegame no &#8220;C:/&#8230;&#8221; ou diretório de trabalho o qualquer outra coisa.
 

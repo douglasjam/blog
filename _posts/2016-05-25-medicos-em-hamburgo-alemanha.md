@@ -3,8 +3,8 @@ layout: post
 title: Medicos em Hamburgo/Alemanha
 published: true
 figure: resources/img/medico-brasil.jpg
-categories:
-  - Alemanha
+category: Alemanha
+tags: [medicos, falam-portugues, alemanha, hamburgo]
 ---
 
 Morando na Alemanha nem sempre e facil achar medicos que falam portugues, pois nada melhor do que tratar deste assunto complicado na sua lingua

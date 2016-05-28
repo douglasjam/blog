@@ -3,8 +3,8 @@ layout: post
 title: Zend Certified PHP Engineer
 figure: resources/img/zendphp5certificationstudyguide.png
 figcaption: Livro Zend PHP 5 Certification Study Guide
-categories:
-  - PHP
+category: PHP
+tags: [certificacao, php, zend]
 ---
 <figure>
 	{% picture thumb_index resources/img/zendphp5certificationstudyguide.png alt="Zend PHP 5 Certification Study Guide" %}

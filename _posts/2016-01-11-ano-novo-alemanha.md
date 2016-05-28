@@ -3,8 +3,8 @@ layout: post
 title: Ano novo alemanha
 figure: resources/img/DSC_0130.jpg
 figcaption: Ano novo 2016 Hamburgo Alemanha
-categories:
-  - Alemanha
+category: Alemanha
+tags: [alemanha, ano-novo, festa, reveillon]
 ---
 {% picture thumb_index resources/img/DSC_0130.jpg alt="Ano novo 2016 Hamburgo Alemanha" %}
 
