@@ -101,17 +101,38 @@ span.label {
   padding-right: 1em
 }
 
+article h2 {
+  margin-bottom: 0px;
+}
+
 .posts article .posts-readmore {
   clear: both;
 }
 
-.posts .posts-labels {
-  clear: both;
+.posts-labels {
+  text-align: right;
+}
+
+.posts-labels span.title {
+  font-size: 10px;
+  font-weight: 500;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .posts .posts-readmore {
   float: right;
   clear: both;
+}
+
+article div.entry {
+  clear: both;
+  padding-top: 5px;
+}
+
+.post-writed {
+  font-size: 12px;
+  font-style: italic;
+  color: #666;
 }
 
 .posts article {

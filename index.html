@@ -9,6 +9,15 @@ layout: default
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
+      <div class="posts-labels">
+        <span class="title">Categoria</span>
+        <span class="label label-primary">{{ post.category }}</span>
+        <span class="title">Tags</span>
+        {% for tag in post.tags %}
+        <span class="label label-default">{{ tag }}</span>
+        {% endfor %}
+      </div>
+
       {% if post.figure %}
       <a href="{{ site.base_url }}{{ post.url }}" class="posts-thumbnail">
         {% picture thumb_index {{ post.figure }} %}
@@ -17,13 +26,6 @@ layout: default
 
       <div class="posts-resume">
         {{ post.excerpt | strip_html }}
-      </div>
-
-      <div class="posts-labels">
-        <span class="label primary">{{ post.category }}</span>
-        {% for tag in post.tags %}
-         <span class="label default">{{ tag }}</span>
-        {% endfor %}
       </div>
 
       <div class="posts-readmore">
