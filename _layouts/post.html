@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<section class="post">
-  <header class="entry-header">
-    {% include page-title.html url=page.url title=page.title %}
-    {% include page-info.html date=page.date categories=page.categories %}
-  </header>
-  <div class="entry-description">
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
     {{ content }}
   </div>
-</section>
 
-{% include page-sharing.html %}
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
 
-{% include page-disquis.html %}
+  {% include page-disqus.html %}
+</article>

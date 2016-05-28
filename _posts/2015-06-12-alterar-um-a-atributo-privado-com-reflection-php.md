@@ -5,7 +5,7 @@ categories:
   - PHP
 ---
 O exemplo abaixo mostra como é possível alterar uma propriedade mesmo que privada em tempo de execução com reflexão. Isto nos faz ficar um pouco mais alerta ao disponibilizar API&#8217;s e confiar que a mesma será restrita ao nosso escopo de classe.
-
+<!--more-->
 {% highlight php %}
 <?php
 

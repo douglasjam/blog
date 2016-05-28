@@ -18,7 +18,7 @@ Minha motivação para tirar, foi para incrementar meu currículo, pois eu estav
 Comecei a trabalhar com PHP com 16 anos, fazendo _echos_ básicos, e copiando e colando script de terceiros em meus sites, como por exemplo, formulário de contatos, sistemas de paginação e afins, não dava enfoque ao que continha ali dentro, apenas colava e tentava fazer funcionar.<!--more-->
 
 Com o passar do tempo, fui me aprimorando, comecei o curso técnico e fui aprendendo um pouco sobre algoritmos e logo em seguida fiz a graduação, a partir deste momento eu já tinha melhor domínio sobre a linguagem e continuava fazendo meus websites e sistemas em PHP. Após 8 anos trabalhando parcialmente e algumas vezes integralmente com ela, eu não era o expert, mas conseguia me virar e fazer o que desejava, mesmo que precisasse dar uma pesquisada no Google. Decidi fazer a prova de certificação, pois iria tentar algumas vagas internacionais como mencionado no inicio do texto.
-
+<!--more-->
 Pesquisei sobre o que cairia e achei que conseguia, porém devido ao alto preço, 195 dólares, eu não podia falhar. Marquei o exame com um mês de prazo para que eu pudesse estudar um pouco, um prazo curto, porém, eu queria colocar aquela certificação em meu currículo pelo fato de já estar avançado nas entrevistas e achar que faria a mesma diferença.<figure id="attachment_91" style="width: 243px" class="wp-caption alignright">
 
 <figure>

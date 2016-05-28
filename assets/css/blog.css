@@ -1,0 +1,124 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  background: #fff;
+  font: 18px/1.4 Helvetica, Arial, sans-serif;
+  color: #333;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222;
+  font-weight: bold;
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+}
+
+h1 {
+  font-size: 30px;
+}
+h1 a {
+  color: inherit;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+  color: #666;
+}
+
+p {
+  margin: 15px 0;
+}
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover, a:active {
+  color: #4183C4;
+}
+
+span.label {
+  font-size: 10px;
+}
+
+.header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.header h3 {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.header p {
+  margin: 0px;
+}
+
+.header nav {
+  font-size: 14px;
+}
+
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.site-avatar {
+  float: left;
+  margin-right: 15px;
+}
+
+.site-avatar img {
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+}
+
+.site-description {
+  font-size: 14px;
+  color: #777;
+}
+
+.posts article picture {
+  float: left;
+  padding-right: 1em
+}
+
+.posts article .posts-readmore {
+  clear: both;
+}
+
+.posts .posts-labels {
+  clear: both;
+}
+
+.posts .posts-readmore {
+  float: right;
+  clear: both;
+}
+
+.posts article {
+  clear: both;
+}
+
+.pagination {
+  background-color: red;
+  clear: both;
+}

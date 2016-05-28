@@ -17,7 +17,7 @@ Para a passagem de avião, utilizei o SkyScanner para buscar a melhor tarifa, ne
 {% include thumbnail-right.html image="/resources/img/fr_quadro.jpg" caption="Pintura de Luis XIV" %}
 
 Na acomodação, procurei a melhor com melhor custo beneficio, pelo Booking.com os hotéis mais baratos estavam com diária de 50 €, porem eu já havia ouvido falar do AirBnB e gostaria de tentar dessa vez, acabei achando um bem próximo da torre Eiffel pelo mesmo preço. Achei bem em conta, visto que por esse preço eu tinha um pequeno apartamento só para mim, o qual podia acomodar ate 4 pessoas, com cozinha e os demais itens essenciais, assim eu economizaria também tomando café e ate jantando em casa mesmo.
-
+<!--more-->
 Para planejar o meu roteiro de passeios, utilizei alguns sites como tripomatic.com e routeperfect.com porem acabei fazendo vários tipos de pesquisa relacionada a “Top Places Paris” no Google. E após definir o que eu iria ver, acabei notando que sempre tenho que pagar alguma taxa, e como a quantidade era grande, acabei optando por comprar um <a href="http://en.parismuseumpass.com/" target="_blank">passe para os museums<\a> de quatro dias, ele dava acesso a alguns museus e monumentos, o que deu uma boa economizada nos meus gastos.
 
 {% include thumbnail-right.html image="/resources/img/eifel_sacre.jpg" caption="Basílica de Sacré-Cœur" %}

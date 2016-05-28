@@ -2,9 +2,9 @@
 layout: post
 title: Medicos em Hamburgo/Alemanha
 published: true
+figure: resources/img/medico-brasil.jpg
 categories:
   - Alemanha
-  - Hamburgo
 ---
 
 Morando na Alemanha nem sempre e facil achar medicos que falam portugues, pois nada melhor do que tratar deste assunto complicado na sua lingua
@@ -16,7 +16,7 @@ Cirurgiao:
 
 - Dr. med. Christo Alexiev - Julius-Brecht-Straße 11 22609 Hamburg Tel. 040-807 88 00
 - Dr. med. Wolfgang Knoop - Schloßstraße 38  22041 Hamburg Tel. 040-68 25 17/68 50 87
-
+<!--more-->
 Cirurgiao Cardiaco:
 
 - Dr. Daniel Miguez R. G. Silva: (Cirurgia cardíaca). Albertine Krankenhaus, Hamburgo. danielgouveia@yahoo.com

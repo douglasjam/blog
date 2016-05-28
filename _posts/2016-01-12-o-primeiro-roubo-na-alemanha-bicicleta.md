@@ -13,7 +13,7 @@ Assim que me mudei para cá, decidi não ter mais carro, além de ser uma econom
 Acho que a quantidade de bicicletas não é igual a Holanda, porém tem uma quantidade considerável, pelo menos no tempo que estou aqui, talvez no verão aumente esse número.
 
 Outra coisa interessante, é que, pelo menos eu achei que as bicicletas aqui são muito caras. No Brasil você consegue arrumar bicicleta de adulto, 18 marchas, simples por uns R$ 250.00, o que convertendo se tem menos de 80 euros. Aqui as bicicletas simples começam em torno de 200 euros, e convertendo de volta em reais (o que não e correto) temos 800 reais, dinheiro o qual compramos uma bicicleta semiprofissional. Não sei por que é caro assim, perguntei a algumas pessoas alemãs e falaram que é normal esse preço, já pessoas de outros países falaram que é bem caro, como por exemplo, um amigo meu de Portugal, disse que lá você paga em torno de 100 euros ou menos por uma simples. Talvez tenha algum imposto alto de modo a investir nas ciclovias. Porém uma coisa que não posso discutir é apesar de ser a simples, a qualidade e bem melhor do que as produzidas no Brasil, alguns detalhes como a qualidade das pecas e etc.
-
+<!--more-->
 Aqui também tem algumas leis e regras para se ter uma bicicleta.
 
   * Você deve guiar no sentido do trafico, ou seja, sempre do lado direito da rodovia, rua ou ciclovia.

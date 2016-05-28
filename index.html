@@ -1,36 +1,73 @@
 ---
 layout: default
-title: Douglas
 ---
-{% for post in paginator.posts %}
-<section class="post">
-  <header class="entry-header">
-    {% if post.figure %}
-    <a href="{{ site.base_url }}{{ post.url }}">
-      {% picture thumb_index {{ post.figure }} class="img-circle entry-avatar" %}
-    </a>
-    {% endif %}
-    {% include page-title.html url=post.url title=post.title %}
-    {% include page-info.html date=post.date categories=post.categories %}
-  </header>
-  <div class="entry-description">
-    <p>
-      {{ post.content | strip_html | truncatewords: 30 }}
-    </p>
-  </div>
-</section>
-{% endfor %}
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-  <a href="{{ site.base_url }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-  <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-  <a href="{{ site.base_url }}{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-  <span class="next ">Next</span>
-  {% endif %}
+<div class="row">
+  <div class="posts">
+    {% for post in paginator.posts %}
+    <article class="post">
+
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+      {% if post.figure %}
+      <a href="{{ site.base_url }}{{ post.url }}" class="posts-thumbnail">
+        {% picture thumb_index {{ post.figure }} %}
+      </a>
+      {% endif %}
+
+      <div class="posts-resume">
+        {{ post.excerpt | strip_html }}
+      </div>
+
+      <div class="posts-labels">
+        {% for category in post.categories %}
+        <span class="label label-primary">{{ category }}</span>
+        {% endfor %}
+      </div>
+
+      <div class="posts-readmore">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Ler mais...</a>
+      </div>
+
+    </article>
+    {% endfor %}
+  </div>
 </div>
+
+{% if paginator.total_pages > 1 %}
+<div class="row">
+  <div class="text-center">
+    <ul class="pagination">
+
+      {% if paginator.previous_page %}
+      <li>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Previous">
+          <span aria-hidden="true">&laquo; Anterior</span>
+        </a>
+      </li>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <li class="active">
+            <a href="#">{{ page }}</a>
+          </li>
+        {% else %}
+          <li>
+            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+      <li>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Next">
+          <span aria-hidden="true">Proxima &raquo;</span>
+        </a>
+      </li>
+      {% endif %}
+
+    </ul>
+  </div>
+</div>
+{% endif %}

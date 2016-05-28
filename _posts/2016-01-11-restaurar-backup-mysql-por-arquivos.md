@@ -15,7 +15,7 @@ Vou detalhar abaixo o passo a passo o qual segui para recuperar um banco apos es
 {% highlight bash %}
 cp -rf /var/lib/mysql/ ~/backup_mysql
 {% endhighlight %}
-
+<!--more-->
 2 &#8211; Reconfigure seu novo servidor
 
 3 &#8211; Pare o servidor

@@ -5,7 +5,7 @@ figure: resources/img/DSC_0130.jpg
 figcaption: Ano novo 2016 Hamburgo Alemanha
 categories:
   - Alemanha
-------------
+---
 {% picture thumb_index resources/img/DSC_0130.jpg alt="Ano novo 2016 Hamburgo Alemanha" %}
 
 Acabo de passar meu primeiro ano novo em Hamburgo na Alemanha, o qual foi bem diferente dos que já passei no brasil.
@@ -13,7 +13,7 @@ Acabo de passar meu primeiro ano novo em Hamburgo na Alemanha, o qual foi bem
 A primeira diferença que se nota e o frio, estavam aproximadamente 0 graus centigrados com sensação de uns -5. Ou seja, não pude usar aquela bermuda e camisa que estava acostumado a usar no Brasil no ano novo, pois lá nessa época e pleno verão.
 
 Você começa a ouvir o barulho dos fogos de artificio aqui de tarde ainda, em uma intensidade que parece que já é ano novo, ou fim de algum campeonato de futebol. O pessoal aqui investe mesmo em fogos de artificio, todo mundo tem o seu guardado.<!--more--><figure id="attachment_59" style="width: 250px" class="wp-caption alignright">
-
+<!--more-->
 {% picture thumb_index resources/img/guerraespadas.jpg alt="Guerra das Espadas na Bahia" %}
 
 Por volta das 22:00 fomos para rua, procurar um lugar para ver os fogos, no primeiro que paramos, em torno do lago Alster, parecia uma guerra civil, voce respirava praticamente fumaca e via pessoas do seu lado soltando fogos para o alto, ou ate mesmo no chão em direção a quem esta distraído, isto me lembrou bastante uma reportagem que vi no brasil a respeito da guerra de espadas na Bahia. Também havia algumas barraquinhas com as coisas típicas daqui com salsicha, crepes e bebidas quente, além de ter bastante gente, porem nada de carro de musica ou trio elétrico como estávamos acostumados no Brasil.

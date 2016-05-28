@@ -1,10 +1,14 @@
 title: douglasjam
-description: Um rascunho sobre as coisas que faco, dentre elas, computacao, eletronica, viagens e coisas do dia a dia.
-base_url: http://www.douglasjam.com.br
-markdown: redcarpet
-highlighter: rouge
+description: Um rascunho do que sei
 author: Douglas J.A.M
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+base_url:
+highlighter: rouge
+excerpt_separator: <!--more-->
 paginate: 5
+include: ['_pages']
+sass:
+  style: :expanded
 urls:
   - text: github
     url: https://github.com/douglasjam
@@ -28,8 +32,11 @@ picture:
         width: "150"
         height: "150"
 gems :
+  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-picture-tag
+
 # todo's
 # multilingual support
 # https://github.com/screeninteraction/jekyll-multiple-languages-plugin

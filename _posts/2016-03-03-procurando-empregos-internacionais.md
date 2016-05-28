@@ -13,7 +13,7 @@ Depois que consegui imigrar para a Alemanha, alguns amigos me perguntaram como e
 {% picture thumb_index {{ page.figure }} alt="Trabalhando e viajando" %}
 
 O primeiro passo que você tem que ver e o idioma, se você terá condições de se comunicar no pais que deseja, dependendo do pais, como no meu caso, que imigrei para a Alemanha, eu não precisei falar a alemão, pois a empresa a qual me candidatei tinha como idioma o inglês, e o a população aqui em sua grande maioria consegue se comunicar em inglês, porem, tenha em mente o ideal e que você fale o idioma do pais que mora para que se socialize melhor.
-
+<!--more-->
 **2- Defina seu alvo**
 
 Todo mundo gostaria de morar na Austrália, Califórnia ou ate mesmo Inglaterra, porem alguns lugares tem uma politica de imigração mais complicada que outros, e talvez isso ate seja um empecilho para a realização do seu sonho, então vale a ponderar se caso o pais que deseja esta muito complicado, se não haveria outro o qual seria mais fácil, por exemplo, nos Estados Unidos o visto de trabalho e bastante concorrido, outros só permitem caso seja descendente ou tenha dupla cidadania, e alguns como Canada ou Alemanha estão a procura de profissionais.
