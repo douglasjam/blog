@@ -17,6 +17,7 @@ Cirurgiao:
 - Dr. med. Christo Alexiev - Julius-Brecht-Straße 11 22609 Hamburg Tel. 040-807 88 00
 - Dr. med. Wolfgang Knoop - Schloßstraße 38  22041 Hamburg Tel. 040-68 25 17/68 50 87
 <!--more-->
+
 Cirurgiao Cardiaco:
 
 - Dr. Daniel Miguez R. G. Silva: (Cirurgia cardíaca). Albertine Krankenhaus, Hamburgo. danielgouveia@yahoo.com
@@ -39,9 +40,9 @@ Cirurgiao Plastico:
 
 Dentista:
 
-- Dr. Ricardo Prado http://www.zahnarzt-prado.de/
-- Dr. Rudolf Völker http://www.praxis-hsv.de/index.php/unsere-praxis/das-team
-- Dra. Pia ter Hark http://www.dr-parschau.de/
+- Dr. Ricardo Prado [Website](http://www.zahnarzt-prado.de/)
+- Dr. Rudolf Völker [Website](http://www.praxis-hsv.de/index.php/unsere-praxis/das-team)
+- Dra. Pia ter Hark [Website](http://www.dr-parschau.de/)
 - Dra. Birgin Kramer: Blankenesestr. Bahnhofstr. 31, 22587 Hamburgo - Tel: (040) 860 101, Fax: (040) 866 082 07
 
 Dermatologista:
@@ -90,7 +91,7 @@ Pele e doencas venereas:
 
 Psicologo:
 
-- Dra. Francisca de Lima http://www.praxis-de-lima.de/index.php?id=startseite&L=4
+- Dra. Francisca de Lima [Website](http://www.praxis-de-lima.de/index.php?id=startseite&L=4)
 
 Psiquiatra:
 
@@ -113,7 +114,7 @@ Urologista:
 
 Fontes:
 
-- http://pt-br.brasileiros-na-alemanha.wikia.com/wiki/M%C3%A9dicos
-- http://www.na-alemanha-tem.com/guia-de-servi%C3%A7os/hamburg/
-- http://berlim.itamaraty.gov.br/pt-br/acesso_a_servicos_de_saude.xml#Médicos
-- http://www.kvhh.net/kvhh/arztsuche/suche/p/274/0/suche/?fname=&fstrasse=&fstadtteil=-1&ffachgebiet=-1&fschwerpunkt=&fzusatz=&fleistung=-1&ffremdsprache=17&arzt_sprechzeiten[fvon]=&arzt_sprechzeiten[fbis]=&fbarriere=0&submit=Suchen
+- [Wikia Brasileiros na Alemanha](http://pt-br.brasileiros-na-alemanha.wikia.com/wiki/M%C3%A9dicos)
+- [Blog NaAlemanhaTem](http://www.na-alemanha-tem.com/guia-de-servi%C3%A7os/hamburg/)
+- [Embaixada Itamaraty](http://berlim.itamaraty.gov.br/pt-br/acesso_a_servicos_de_saude.xml#Médicos)
+- [KVHH - Todos Medicos de Hamburg](http://www.kvhh.net/kvhh/arztsuche/suche/p/274/0/suche/?fname=&fstrasse=&fstadtteil=-1&ffachgebiet=-1&fschwerpunkt=&fzusatz=&fleistung=-1&ffremdsprache=17&arzt_sprechzeiten[fvon]=&arzt_sprechzeiten[fbis]=&fbarriere=0&submit=Suchen)

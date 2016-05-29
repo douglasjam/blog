@@ -29,8 +29,8 @@ picture:
     thumb_index:
       ppi: [1, 1.5, 2]
       source_default:
-        width: "150"
-        height: "150"
+        width: "100"
+        height: "100"
 gems :
   - jekyll-sitemap
   - jekyll-feed

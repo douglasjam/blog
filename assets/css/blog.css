@@ -143,3 +143,16 @@ article div.entry {
   background-color: red;
   clear: both;
 }
+
+.thumb-right {
+  float: right;
+  clear: right;
+}
+
+.thumb-caption {
+  margin: 0px;
+  font-size: 15px;
+  padding: 5px;
+  text-align: center;
+  max-width: 200px;
+}
