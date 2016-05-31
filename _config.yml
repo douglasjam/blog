@@ -6,6 +6,7 @@ base_url:
 highlighter: rouge
 excerpt_separator: <!--more-->
 paginate: 5
+google_analytics: UA-78566019-1
 include: ['_pages']
 sass:
   style: :expanded
