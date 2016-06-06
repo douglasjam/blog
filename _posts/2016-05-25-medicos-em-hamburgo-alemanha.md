@@ -120,3 +120,7 @@ Fontes:
 - [Blog NaAlemanhaTem](http://www.na-alemanha-tem.com/guia-de-servi%C3%A7os/hamburg/)
 - [Embaixada Itamaraty](http://berlim.itamaraty.gov.br/pt-br/acesso_a_servicos_de_saude.xml#Médicos)
 - [KVHH - Todos Medicos de Hamburg](http://www.kvhh.net/kvhh/arztsuche/suche/p/274/0/suche/?fname=&fstrasse=&fstadtteil=-1&ffachgebiet=-1&fschwerpunkt=&fzusatz=&fleistung=-1&ffremdsprache=17&arzt_sprechzeiten[fvon]=&arzt_sprechzeiten[fbis]=&fbarriere=0&submit=Suchen)
+
+Outro site bom para consulta de medicos proximos
+
+- [Jameda.DE](http://www.jameda.de/)
