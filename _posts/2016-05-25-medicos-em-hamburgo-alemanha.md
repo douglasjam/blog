@@ -32,6 +32,7 @@ Clinico Geral:
 - Dr. Edgar Bruno Jan: Clínico Geral. Grelckstr. 36, 22529 Hamburgo. Tel: (040) 581 231
 - Beatriz Helena de Cañas Sandberger - Burmester Straße 2 22305 Hamburg Tel. 040-29 41 65
 - Dr. med. Claudia Stern - Martin-Luther-Straße 12 20459 Hamburg Tel. 040-37 32 30
+ > **Nota:** Anteriormente havia uma auxiliar que falava portugues, atualmente nao a vejo mais, porem, mesmo com ingles ou alemao a recomendo
 - Dr. med. Stefan Siemund	- Plattenfoort 2 - 22159 Hamburg Tel. 040-644 87 48
 
 Cirurgiao Plastico:
@@ -80,6 +81,7 @@ Ortopedista:
 Otorrino:
 
 - Alexander Swiridoff - Pestalozzistrasse 24 22305 Hamburg Tel. 040-69 70 70-0
+> **Nota:** Por telefone, a recepcionista me informou que nao falam
 
 Pediatra:
 
