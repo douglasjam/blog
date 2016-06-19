@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Jekyll Paginas Estaticas
-category: Linux
-figure: resources/img/jekyll.jpg
+category: Uteis
+figure: resources/img/jekyll.png
 tags: [jekyll, blog, ruby, paginas estaticas]
 ---
 Depois de alguns anos apenas utilizando Wordpress como principal sistema de blog ou CMS acabo conhecendo o [Jekyll](https://jekyllrb.com). Ele basicamente e um gerador de sites estáticos escrito em ruby que converte textos com marcações markdown, html, includes de partials e outras coisas providas por plugins em paginas estáticas html.
@@ -12,7 +12,7 @@ Ele permite que você faça quase tudo que um site escrito em PHP, C# ou Java, c
 Outro grande ponto e que, há varias empresas oferecendo hospedagem e ate compilação gratuita para ele, como por exemplo o [github pages](https://pages.github.com/), gitlab pages.
 
 Este blog por exemplo, esta escrito nele, porem utilizo meu próprio servidor para hospeda-lo. Caso queira ver como estou desenvolvendo, pode conferir em [meu repositorio no github](github.com/douglasjam/blog).
-
+/Users/douglasjam/djam/blog/_posts/2016-01-12-o-primeiro-roubo-na-alemanha-bicicleta.md
 Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog, alem destes você pode encontrar diversos outros [plugins](https://jekyllrb.com/docs/plugins/) prontos para uso , alem de [temas](http://jekyllthemes.org/) como criar seus próprios plugins.
 
 - Definição de variáveis em paginas
@@ -31,9 +31,9 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
 - Iteracao entre valores de um array
 
 {% highlight ruby %}
-    \u007b\u0025 for tag in page.tags \u0025\u007d
+    {{ "{% this " }}%} for tag in page.tags \u0025\u007d
         <span class="label label-default">{{ tag }}</span>
-    \u007b\u0025 endfor \u0025\u007d
+    {{ "{% this " }}%} endfor \u0025\u007d
     
     \u007b\u0025 for post in paginator.posts \u0025\u007d
         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
