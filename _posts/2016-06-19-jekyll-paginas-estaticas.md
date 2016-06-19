@@ -31,7 +31,7 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
 - Iteracao entre valores de um array
 
 {% highlight ruby %}
-    \{\% for tag in page.tags %}
+   {{ '{%' }} for tag in page.tags {{ '%}' }}
         <span class="label label-default">{{ tag }}</span>
     {% endfor %}
     
