@@ -18,7 +18,7 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
 
 - Definição de variáveis em paginas
 
-{% highlight %}
+{% highlight ruby %}
     ---
     layout: post
     title: Restaurar backup mysql por arquivos
@@ -31,7 +31,7 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
 
 - Iteracao entre valores de um array
 
-{% highlight %}
+{% highlight ruby %}
     \u007b\u0025 for tag in page.tags \u0025\u007d
         <span class="label label-default">{{ tag }}</span>
     \u007b\u0025 endfor \u0025\u007d
@@ -39,7 +39,7 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
     \u007b\u0025 for post in paginator.posts \u0025\u007d
         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
     \u007b\u0025 endfor \u0025\u007d
-{% highlight %}
+{% endhighlight %}
 
 - Impressão de variáveis e formatação da saída
 
@@ -47,12 +47,13 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
     <span class="post-writed pull-left">
       Escrito em \u007b\u007b page.date | date: " %d/%m/%Y" \u007d\u007d
     </span>
+{% endhighlight %}
     
 - Inclusão de views
     
 {% highlight ruby %}
     \u007b\u0025 include layout-analytics.html \u0025\u007d
-{% highlight %}
+{% endhighlight %}
 
 - Plugin para encapsular formatação de código fonte
 
@@ -60,11 +61,11 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
     \u007b\u007b\u0025 highlight bash \u0025\u007d
         mklink /D "C:/Arquivos de Programas/Jogo/Savegame" "C:/Users/XPTO/Dropbox"
     \u007b\u0025 endhighlight \u0025\u007d
-{% highlight %}
+{% endhighlight %}
 
 - Plugin para transformar a imagem em thumbnail
 
 {% highlight ruby %}
     \u007b\u0025 picture thumb_index resources/img/guerraespadas.jpg alt="Guerra das Espadas na Bahia" \u0025\u007d
-{% highlight %}
+{% endhighlight %}
 
