@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll Paginas Estaticas
 category: Uteis
-figure: resources/img/jekyll.png
+figure: resources/img/jekyll.jpg
 tags: [jekyll, blog, ruby, paginas estaticas]
 ---
 Depois de alguns anos apenas utilizando Wordpress como principal sistema de blog ou CMS acabo conhecendo o [Jekyll](https://jekyllrb.com). Ele basicamente e um gerador de sites estáticos escrito em ruby que converte textos com marcações markdown, html, includes de partials e outras coisas providas por plugins em paginas estáticas html.
@@ -12,7 +12,7 @@ Ele permite que você faça quase tudo que um site escrito em PHP, C# ou Java, c
 Outro grande ponto e que, há varias empresas oferecendo hospedagem e ate compilação gratuita para ele, como por exemplo o [github pages](https://pages.github.com/), gitlab pages.
 
 Este blog por exemplo, esta escrito nele, porem utilizo meu próprio servidor para hospeda-lo. Caso queira ver como estou desenvolvendo, pode conferir em [meu repositorio no github](github.com/douglasjam/blog).
-/Users/douglasjam/djam/blog/_posts/2016-01-12-o-primeiro-roubo-na-alemanha-bicicleta.md
+
 Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog, alem destes você pode encontrar diversos outros [plugins](https://jekyllrb.com/docs/plugins/) prontos para uso , alem de [temas](http://jekyllthemes.org/) como criar seus próprios plugins.
 
 - Definição de variáveis em paginas
@@ -31,40 +31,40 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
 - Iteracao entre valores de um array
 
 {% highlight ruby %}
-    {{ "{% this " }}%} for tag in page.tags \u0025\u007d
+    {% for tag in page.tags %}
         <span class="label label-default">{{ tag }}</span>
-    {{ "{% this " }}%} endfor \u0025\u007d
+    {% endfor %}
     
-    \u007b\u0025 for post in paginator.posts \u0025\u007d
+    {% for post in paginator.posts %}
         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-    \u007b\u0025 endfor \u0025\u007d
+    {% endfor %}
 {% endhighlight %}
 
 - Impressão de variáveis e formatação da saída
 
 {% highlight ruby %}
     <span class="post-writed pull-left">
-      Escrito em \u007b\u007b page.date | date: " %d/%m/%Y" \u007d\u007d
+      Escrito em {{ page.date | date: " %d/%m/%Y" }}
     </span>
 {% endhighlight %}
     
 - Inclusão de views
     
 {% highlight ruby %}
-    \u007b\u0025 include layout-analytics.html \u0025\u007d
+    {% include layout-analytics.html %}
 {% endhighlight %}
 
 - Plugin para encapsular formatação de código fonte
 
 {% highlight ruby %}
-    \u007b\u007b\u0025 highlight bash \u0025\u007d
+    \u007b{% highlight bash %}
         mklink /D "C:/Arquivos de Programas/Jogo/Savegame" "C:/Users/XPTO/Dropbox"
-    \u007b\u0025 endhighlight \u0025\u007d
+    {% endhighlight %}
 {% endhighlight %}
 
 - Plugin para transformar a imagem em thumbnail
 
 {% highlight ruby %}
-    \u007b\u0025 picture thumb_index resources/img/guerraespadas.jpg alt="Guerra das Espadas na Bahia" \u0025\u007d
+    {% picture thumb_index resources/img/guerraespadas.jpg alt="Guerra das Espadas na Bahia" %}
 {% endhighlight %}
 
