@@ -16,7 +16,9 @@ This was a problem to me, to solve this in the first instance I decided to contr
 I was already using Docker containers as hobby locally, then I decided to try use it inside my VPS also. And right now I'm completely satisfied with the results, my main VPS machine is very clean, just a SSH Server and Nginx to rewrite domains access to docker ports, and each docker containers are isolated with only the required dependencies and without any conflict. And the best if one container crash it is just recreate it uniquely and it is fixed, easily and fast.
     
 I'll write bellow the steps that I did in order to make this environment, you can do it locally, in your Linode, DigitalOcean or in any server that you have access.
-<!--more-->    
+
+<!--more-->
+    
 - 1: Install docker in your machine
 
 {% highlight bash %}
