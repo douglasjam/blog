@@ -15,6 +15,8 @@ Este blog por exemplo, esta escrito nele, porem utilizo meu próprio servidor pa
 
 Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog, alem destes você pode encontrar diversos outros [plugins](https://jekyllrb.com/docs/plugins/) prontos para uso , alem de [temas](http://jekyllthemes.org/) como criar seus próprios plugins.
 
+_Como nao consegui escapar o codigo jekyll, as tags de abertura/fechamento podem estao diferentes, porem normalmente e { % para interpretacao e { { para impressao._
+
 - Definição de variáveis em paginas
 
 {% highlight ruby %}
@@ -31,40 +33,40 @@ Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog,
 - Iteracao entre valores de um array
 
 {% highlight ruby %}
-   {{ '{%' }} for tag in page.tags {{ '%}' }}
-        <span class="label label-default">{{ tag }}</span>
-    {% endfor %}
+   % for tag in page.tags %
+        <span class="label label-default">{ tag }</span>
+    % endfor %
     
-    {% for post in paginator.posts %}
+    % for post in paginator.posts %
         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-    {% endfor %}
+    % endfor %
 {% endhighlight %}
 
 - Impressão de variáveis e formatação da saída
 
 {% highlight ruby %}
     <span class="post-writed pull-left">
-      Escrito em {{ page.date | date: " %d/%m/%Y" }}
+      Escrito em { page.date | date: " %d/%m/%Y" }
     </span>
 {% endhighlight %}
     
 - Inclusão de views
     
 {% highlight ruby %}
-    {% include layout-analytics.html %}
+    include layout-analytics.html
 {% endhighlight %}
 
 - Plugin para encapsular formatação de código fonte
 
 {% highlight ruby %}
-    \u007b{% highlight bash %}
+    % highlight bash %
         mklink /D "C:/Arquivos de Programas/Jogo/Savegame" "C:/Users/XPTO/Dropbox"
-    {% endhighlight %}
+    % endhighlight %
 {% endhighlight %}
 
 - Plugin para transformar a imagem em thumbnail
 
 {% highlight ruby %}
-    {% picture thumb_index resources/img/guerraespadas.jpg alt="Guerra das Espadas na Bahia" %}
+    % picture thumb_index resources/img/guerraespadas.jpg alt="Guerra das Espadas na Bahia" %
 {% endhighlight %}
 

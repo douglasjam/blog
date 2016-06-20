@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Medicos em Hamburgo/Alemanha
+title: Medicos que falam português em Hamburgo/Alemanha
 published: true
 figure: resources/img/medico-brasil.jpg
 category: Alemanha
-tags: [medicos, falam-portugues, alemanha, hamburgo]
+tags: [medicos, falam-portugues, alemanha, hamburgo, portugues, brasil, portugal]
 ---
 
-Morando na Alemanha nem sempre e facil achar medicos que falam portugues, pois nada melhor do que tratar deste assunto complicado na sua lingua
+Morando na Alemanha nem sempre e fácil achar médicos que falam português, pois nada melhor do que tratar deste assunto complicado na sua língua
 nativa, porem sempre se encontra algum que fala ingles ou espanhol, portanto vou aqui listando os que encontrei pela internet ou recomendacoes. 
 
-Caso algum destes nao trabalhe mais em Hamburgo, ou nao fale portugues, ou caso encontre novos, por favor me informe para que eu atualize esta lista.
+Caso algum destes nao trabalhe mais em Hamburgo, ou nao fale português, ou caso encontre novos, por favor me informe para que eu atualize esta lista.
 
 Cirurgiao:
 
@@ -33,7 +33,7 @@ Clinico Geral:
 - Beatriz Helena de Cañas Sandberger - Burmester Straße 2 22305 Hamburg Tel. 040-29 41 65
 - Dr. med. Claudia Stern - Martin-Luther-Straße 12 20459 Hamburg Tel. 040-37 32 30
  > **Nota:** Anteriormente havia uma auxiliar que falava portugues, atualmente nao a vejo mais, porem, mesmo com ingles ou alemao a recomendo
-- Dr. med. Stefan Siemund	- Plattenfoort 2 - 22159 Hamburg Tel. 040-644 87 48
+- Dr. med. Stefan Siemund  - Plattenfoort 2 - 22159 Hamburg Tel. 040-644 87 48
 
 Cirurgiao Plastico:
 
@@ -124,3 +124,4 @@ Fontes:
 Outro site bom para consulta de medicos proximos
 
 - [Jameda.DE](http://www.jameda.de/)
+
