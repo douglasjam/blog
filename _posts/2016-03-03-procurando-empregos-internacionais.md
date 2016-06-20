@@ -2,7 +2,7 @@
 layout: post
 title: Procurando empregos internacionais
 figure: resources/img/workabroad.jpg
-figcaption: Trabalhando e viajando]
+figcaption: Trabalhando e viajando
 figinpost: true
 category: Dicas
 tags: [dicas, emprego, internacional, alemanha, ti]
