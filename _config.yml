@@ -35,7 +35,7 @@ picture:
     thumb_post:
       ppi: [1, 1.5, 2]
       source_default:
-        width: "250""
+        width: "250"
 gems :
   - jekyll-sitemap
   - jekyll-feed
