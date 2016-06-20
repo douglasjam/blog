@@ -3,8 +3,9 @@ layout: post
 title: Auto Deploy with Jenkins into Docker
 category: Docker
 figure: resources/img/jenkinsdocker.jpg
+figinpost: true
 tags: [linux, docker, vps, linode, port-forwarding, cloud]
-----------------------------------------------------------
+---
 I use a VPS from [Linode](https://www.linode.com/?r=f548ff90f3ebf67ce61e811294d8de70b45a3e1c) to host and manage my systems, before this change I was using 2 VPS where I installed all the servers in the main machine. But after sometime I got some problems like:
  
  - I needed two different versions of Mysql, but it is not easy to handle this situation 
@@ -15,7 +16,7 @@ This was a problem to me, to solve this in the first instance I decided to contr
 I was already using Docker containers as hobby locally, then I decided to try use it inside my VPS also. And right now I'm completely satisfied with the results, my main VPS machine is very clean, just a SSH Server and Nginx to rewrite domains access to docker ports, and each docker containers are isolated with only the required dependencies and without any conflict. And the best if one container crash it is just recreate it uniquely and it is fixed, easily and fast.
     
 I'll write bellow the steps that I did in order to make this environment, you can do it locally, in your Linode, DigitalOcean or in any server that you have access.
-    
+<!--more-->    
 - 1: Install docker in your machine
 
 {% highlight bash %}
