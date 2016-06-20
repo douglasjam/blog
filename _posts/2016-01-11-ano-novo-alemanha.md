@@ -6,6 +6,7 @@ figcaption: Ano novo 2016 Hamburgo Alemanha
 category: Alemanha
 tags: [alemanha, ano-novo, festa, reveillon]
 ---
+
 {% picture thumb_index resources/img/DSC_0130.jpg alt="Ano novo 2016 Hamburgo Alemanha" %}
 
 Acabo de passar meu primeiro ano novo em Hamburgo na Alemanha, o qual foi bem diferente dos que já passei no brasil.

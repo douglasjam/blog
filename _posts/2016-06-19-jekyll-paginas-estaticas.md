@@ -3,6 +3,7 @@ layout: post
 title: Paginas estáticas com Jekyll
 category: Uteis
 figure: resources/img/jekyll.png
+figinpost: true
 tags: [jekyll, blog, ruby, paginas estaticas]
 ---
 Depois de alguns anos apenas utilizando Wordpress como principal sistema de blog ou CMS acabo conhecendo o [Jekyll](https://jekyllrb.com). Ele basicamente e um gerador de sites estáticos escrito em ruby que converte textos com marcações markdown, html, includes de partials e outras coisas providas por plugins em paginas estáticas html.
