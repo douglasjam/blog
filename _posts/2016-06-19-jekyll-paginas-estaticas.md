@@ -12,6 +12,7 @@ Ele permite que você faça quase tudo que um site escrito em PHP, C# ou Java, c
 Outro grande ponto e que, há varias empresas oferecendo hospedagem e ate compilação gratuita para ele, como por exemplo o [github pages](https://pages.github.com/), gitlab pages.
 
 Este blog por exemplo, esta escrito nele, porem utilizo meu próprio servidor para hospeda-lo. Caso queira ver como estou desenvolvendo, pode conferir em [meu repositorio no github](github.com/douglasjam/blog).
+<!--more-->
 
 Segue abaixo alguns dos exemplos de uso do Jekyll que estou fazendo em meu blog, alem destes você pode encontrar diversos outros [plugins](https://jekyllrb.com/docs/plugins/) prontos para uso , alem de [temas](http://jekyllthemes.org/) como criar seus próprios plugins.
 
