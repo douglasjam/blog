@@ -22,7 +22,7 @@ layout: default
 
   <div class="entry">
     {% if page.figinpost %}
-      {% include thumbnail-right.html image="{{ page.figure }}" caption="{{ page.figcaption }}" %}
+      {% include thumbnail-right.html image=page.figure caption=page.figcaption %}
     {% endif %}
     {{ content }}
   </div>
