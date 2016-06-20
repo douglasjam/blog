@@ -6,10 +6,7 @@ figcaption: Livro Zend PHP 5 Certification Study Guide
 category: PHP
 tags: [certificacao, php, zend]
 ---
-<figure>
-	{% picture thumb_index resources/img/zendphp5certificationstudyguide.png alt="Zend PHP 5 Certification Study Guide" %}
-	<figcaption>Livro Zend PHP 5 Certification Study Guide</figcaption>
-</figure>
+{% include thumbnail-right.html thumbsize="thumb_post" image="/resources/img/zendphp5certificationstudyguide.png" caption="Zend PHP 5 Certification Study Guide" %}
 
 Vou relatar nesse post minha experiência ao tirar a certificação Zend PHP Engineer, já se fazem 8 meses que tirei, portanto não vou lembrar exatamente como foi, mas é melhor escrever aqui do que esperar que eu me esqueça por completo.
 
@@ -21,10 +18,7 @@ Com o passar do tempo, fui me aprimorando, comecei o curso técnico e fui aprend
 <!--more-->
 Pesquisei sobre o que cairia e achei que conseguia, porém devido ao alto preço, 195 dólares, eu não podia falhar. Marquei o exame com um mês de prazo para que eu pudesse estudar um pouco, um prazo curto, porém, eu queria colocar aquela certificação em meu currículo pelo fato de já estar avançado nas entrevistas e achar que faria a mesma diferença.<figure id="attachment_91" style="width: 243px" class="wp-caption alignright">
 
-<figure>
-    {% picture thumb_index resources/img/zendphpcertificationpracticetestbook.png alt="Zend PHP Certification Practice Test Book" %}
-	<figcaption>Livro Zend PHP Certification Practice Test Book</figcaption>
-</figure>
+{% include thumbnail-right.html thumbsize="thumb_post" image="/resources/img/zendphpcertificationpracticetestbook.png" caption="Zend PHP Certification Practice Test Book" %}
 
 Comecei a procurar por ebooks, livros e apps pela internet, e pelo que me recordo, dediquei aos dois abaixo, um com a teoria e outro com simulados e um aplicativo para smartphone [(PHP ZCE Practice Exam)](mailto:https://play.google.com/store/apps/details%3Fid=com.quiz.php). Estes livros realmente foram muito proveitosos, aprendi muita coisa que nem fazia ideia que existia na linguagem como também coisas as quais eu achava que era de um jeito porem era de outro totalmente diferente. O aplicativo eu utilizava sempre dentro do ônibus ou caminhando para o trabalho em prol de praticar o que tinha estudado, visto que meu tempo era curto.
 
@@ -36,10 +30,7 @@ Por fim uma lição que tirei do livro e que, independente da sua experiência, 
 
 Após esse um mês de estudo, eu havia terminado o livro e praticado vários simulados, acredito que estava tirando em torno de 80% nos simulados, uma nota razoável, porem não ideal, eu sempre vacilava em algumas pegadinhas por fazer os simulados correndo, porem eu não tinha mais tempo para estudar, e acreditava que na hora da prova eu estaria 100% focado para não cair nelas.<figure id="attachment_92" style="width: 174px" class="wp-caption alignright">
 
-<figure>
-	{% picture thumb_index resources/img/zcepractivetestexameapp.png alt="ZCE Practice Test Exame" %}
-	<figcaption>Aplicativo ZCE Practice Test Exame</figcaption>
-</figure>
+{% include thumbnail-right.html thumbsize="thumb_post" image="/resources/img/zcepractivetestexameapp.png" caption="ZCE Practice Test Exame" %}
 
 A prova e composta de 70 questões, para serem realizadas em 90 minutos. Onde a variedade das respostas podia ser, uma resposta correta, mais de uma resposta correta e texto aberto, se me lembro era apenas campos onde se respondia uma palavra, como por exemplo o nome de uma função, ou o resultado.
 
