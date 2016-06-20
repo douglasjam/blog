@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Auto Deploy with Jenkins into Docker
+title: Forwarding outside connections into Docker
 category: Docker
 figure: resources/img/jenkinsdocker.jpg
 figinpost: true
@@ -33,7 +33,7 @@ docker containers.
 {% endhighlight %}
 
 - 3: Now docker will listen in the exposed ports automatically, per example, if you just have one docker containers that runs nginx in the ports 80, and you exposed 80:80, your server is configured 
-automatically then, but if you have 2 or more nginx docker containers, it is not possible to expose both in the port 80, then you have to do something per example:
+automatically then, but if you have 2 or more containers with nginx, it is not possible to expose both in the port 80, then you have to do something per example:
 
 {% highlight text %}
 # docker internal port -> exposed port
