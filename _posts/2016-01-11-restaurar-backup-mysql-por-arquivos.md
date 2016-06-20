@@ -2,7 +2,7 @@
 layout: post
 title: Restaurar backup mysql por arquivos
 category: Banco de Dados
-tags: [banco-de-dados, linux, mysql, restaurar, backup]
+tags: [banco-de-dados, linux, mysql, restaurar, backup, portugues]
 ---
 Caso algum dia você não possa utilizar o mysqldump para fazer o backup corretamente e isolado do seu banco de dados mysql, seja por algum crash, alguma atualização ou modificação mal feita no servidor, você pode em ultimo caso recorrer ao backup manual dos arquivos, podendo assim você logo apos restaurar os arquivo em uma nova configuração de mysql.
 

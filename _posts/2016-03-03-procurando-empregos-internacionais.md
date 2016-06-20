@@ -5,7 +5,7 @@ figure: resources/img/workabroad.jpg
 figcaption: Trabalhando e viajando
 figinpost: true
 category: Dicas
-tags: [dicas, emprego, internacional, alemanha, ti]
+tags: [dicas, emprego, internacional, alemanha, ti, portugues]
 ---
 Depois que consegui imigrar para a Alemanha, alguns amigos me perguntaram como eu fiz para conseguir um emprego fora, quais sites eu utilizei e se eu tinha alguma dica, vou tentar descrever nesse _post_ uma pouco da minha experiência, mas vale ressaltar, que o que digo aqui e com base no que aprendi, não existe uma receita para isso.
 

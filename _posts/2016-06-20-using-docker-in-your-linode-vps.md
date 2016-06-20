@@ -4,7 +4,7 @@ title: Forwarding outside connections into Docker
 category: Docker
 figure: resources/img/jenkinsdocker.jpg
 figinpost: true
-tags: [linux, docker, vps, linode, port-forwarding, cloud]
+tags: [linux, docker, vps, linode, port-forwarding, cloud, english]
 ---
 I use a VPS from [Linode](https://www.linode.com/?r=f548ff90f3ebf67ce61e811294d8de70b45a3e1c) to host and manage my systems, before this change I was using 2 VPS where I installed all the servers in the main machine. But after sometime I got some problems like:
  

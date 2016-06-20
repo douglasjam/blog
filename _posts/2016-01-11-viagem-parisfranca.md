@@ -4,7 +4,7 @@ title: Viagem Paris/França
 figure: resources/img/fr_eifel.jpg
 figcaption: Torre Eifel
 category: Viagens
-tags: [viagem, paris, franca]
+tags: [viagem, paris, franca, portugues]
 ---
 Neste feriado prolongado do final do ano de 2015 resolvi dar uma passeada, e por ser inverno, cogitei ir para Franca, pois, outros lugares gostaria de deixar para ver com sol e flores, como por exemplo a Holanda e Espanha.
 

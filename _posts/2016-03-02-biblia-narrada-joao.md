@@ -5,7 +5,7 @@ figure: resources/img/joao.jpg
 figcaption: Foto do Livro de João
 figinpost: true
 category: Bíblia Narrada
-tags: [biblia-narrada, deus, joao, jesus]
+tags: [biblia-narrada, deus, joao, jesus, portugues]
 ---
 Neste espaço começarei um projeto no qual farei a leitura da Bíblia cujo objetivo e me edificar, ter um controle do que ja li, criar mais uma fonte da palavra de Deus, melhorar minha narrativa, leitura e edição de audios.
 

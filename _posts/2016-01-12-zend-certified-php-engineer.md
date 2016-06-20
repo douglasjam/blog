@@ -4,7 +4,7 @@ title: Zend Certified PHP Engineer
 figure: resources/img/zendphp5certificationstudyguide.png
 figcaption: Livro Zend PHP 5 Certification Study Guide
 category: PHP
-tags: [certificacao, php, zend]
+tags: [certificacao, php, zend, portugues]
 ---
 {% include thumbnail-right.html thumbsize="thumb_post" image="/resources/img/zendphp5certificationstudyguide.png" caption="Zend PHP 5 Certification Study Guide" %}
 

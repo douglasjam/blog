@@ -4,7 +4,7 @@ title: Renomear tabelas Mysql
 category: Banco de Dados
 figure: resources/img/mysql.png
 figinpost: true
-tags: [banco-de-dados, mysql, renomear, tabelas]
+tags: [banco-de-dados, mysql, renomear, tabelas, portugues]
 ---
 Pode acontecer de alguma vez você precisar fazer uma operação em lote em um banco seu, onde será necessário renomear todas as tabelas adicionando um prefixo, sufixo ou até alterar o nome delas, seja qual for o motivo, existe um método mais produtivo que renomear elas por alguma interface uma a uma que é por um script caso o número de tabelas seja grande. O script abaixo faz a leitura de todas as tabelas do banco e mediante esta leitura eu concateno algum comando de alteração do nome mais a consulta que troca o nome, segue o comando abaixo.
 
