@@ -62,6 +62,7 @@ server {
          proxy_pass http://127.0.0.1:1002;
      }
  }
+{% endhighlight %}
  
 - 6: now restart nginx to reload the new configurations
  
