@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Viagem Schwerin/Alemanha
-figure: resources/img/schwerin_castle.jpg
+figure: resources/img/schwerin/schwerin_castle.jpg
 figcaption: Castelo de Schwerin
 category: Viagens
 tags: [viagem, schwerin, alemanha, castelo, portugues]
