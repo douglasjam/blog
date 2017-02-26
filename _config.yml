@@ -23,19 +23,19 @@ picture:
     default:
       ppi: [1, 1.5, 2]
       source_large:
-        media: "(min-width: 480px)"
-        width: "252"
+        media: "(min-width: 240px)"
+        width: "125"
       source_default:
         width: "480"
     thumb_index:
       ppi: [1, 1.5, 2]
       source_default:
-        width: "100"
-        height: "100"
+        width: "50"
+        height: "50"
     thumb_post:
       ppi: [1, 1.5, 2]
       source_default:
-        width: "250"
+        width: "125"
 gems :
   - jekyll-sitemap
   - jekyll-feed
