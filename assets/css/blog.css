@@ -157,9 +157,14 @@ article div.entry {
   max-width: 200px;
 }
 
-.icon-colorized {
-  margin-right: 5px;
-  -moz-border-radius: 50px;
-  -webkit-border-radius: 50px;
-  border-radius: 50px;
+.icon-success {
+  color: #5CB85C;
+}
+
+.icon-warning {
+  color: #fadf00;
+}
+
+.icon-danger {
+  color: #b80018;
 }
