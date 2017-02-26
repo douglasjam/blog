@@ -85,11 +85,24 @@ Otorrino:
 
 Pediatra:
 
-- Dr. med. Achim Wüsthof - Speersort 4  20095 Hamburg Tel. 040-30 80 4-400
 
-Pele e doencas venereas:
- 
-- Dr. med. Maya Oei Goldbekplatz 2  22303 Hamburg Tel. 040-61 61 72
+<ul>
+    <li>
+        <span class="glyphicons glyphicons-check"></span> Confirmado
+        Dr. Achim Wüsthof - Fachärzte für Kinder und Jungenmedizin, Kinder-Endokrinologieu nd und Diabetologie<br />
+        <span class="glyphicons glyphicons-map"></span> Lornsenstrasse 4-6 22767 Hamburg
+        <span class="glyphicons glyphicons-earphone"></span> 040 30628830
+        <a href="http://www.endokrinologikum.com/">Website</a>
+    </li>
+    <li>
+        <span class="glyphicons glyphicons-check"></span> Confirmado
+        Dra. med. Gabriela Almeida, Endocrinologia e diabetes infantil<br />
+        <span class="glyphicons glyphicons-map"></span> Neuenfelder Strasse 31 2 OG 21109 Hamburgo.
+        <span class="glyphicons glyphicons-earphone"></span> 040  181 884 8650
+        <a href="http://www.asklepios.de/agzharburg_Dr__med__Gabriela_Almeida.Asklepios">website</a>
+    </li>
+
+</ul>
 
 Psicologo:
 
