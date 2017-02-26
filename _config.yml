@@ -1,7 +1,7 @@
 title: douglasjam
 description: Um rascunho do que acho sei
 author: Douglas J.A.M
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /assets/img/logo.png
 base_url:
 highlighter: rouge
 excerpt_separator: <!--more-->
