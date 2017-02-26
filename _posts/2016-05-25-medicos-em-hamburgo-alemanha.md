@@ -14,26 +14,26 @@ Caso algum destes nao trabalhe mais em Hamburgo, ou nao fale português, ou caso
 
 Cirurgiao:
 
-- Dr. med. Christo Alexiev - Julius-Brecht-Straße 11 22609 Hamburg Tel. 040-807 88 00
-- Dr. med. Wolfgang Knoop - Schloßstraße 38  22041 Hamburg Tel. 040-68 25 17/68 50 87
+- Dr. med. Christo Alexiev {% include icons/icon-map.html %} Julius-Brecht-Straße 11 22609 Hamburg {% include icons/icon-phone.html %} 040-807 88 00
+- Dr. med. Wolfgang Knoop {% include icons/icon-map.html %}  Schloßstraße 38  22041 Hamburg Tel. 040-68 25 17/68 50 87
 <!--more-->
 
 Cirurgiao Cardiaco:
 
-- Dr. Daniel Miguez R. G. Silva: (Cirurgia cardíaca). Albertine Krankenhaus, Hamburgo. danielgouveia@yahoo.com
+- Dr. Daniel Miguez R. G. Silva: (Cirurgia cardíaca) {% include icons/icon-map.html %}  Albertine Krankenhaus, Hamburgo. danielgouveia@yahoo.com
 
 Cirurgiao Oral/Maxofacial:
 
-- Dr. med. Dent. Manfred Suhr - Hohe Bleichen 10  20354 Hamburg Tel. 040-350 17 50
+- Dr. med. Dent. Manfred Suhr {% include icons/icon-map.html %}  Hohe Bleichen 10  20354 Hamburg Tel. 040-350 17 50
 
 Clinico Geral:
 
-- Dra. Christamaria Schlüter: Clínica geral, acupuntura. Grelckstr. 9, 22529 Hamburgo. Tel: (040) 582 222
-- Dr. Edgar Bruno Jan: Clínico Geral. Grelckstr. 36, 22529 Hamburgo. Tel: (040) 581 231
-- Beatriz Helena de Cañas Sandberger - Burmester Straße 2 22305 Hamburg Tel. 040-29 41 65
-- Dr. med. Claudia Stern - Martin-Luther-Straße 12 20459 Hamburg Tel. 040-37 32 30
- > **Nota:** Anteriormente havia uma auxiliar que falava portugues, atualmente nao a vejo mais, porem, mesmo com ingles ou alemao a recomendo
-- Dr. med. Stefan Siemund  - Plattenfoort 2 - 22159 Hamburg Tel. 040-644 87 48
+- Dra. Christamaria Schlüter: Clínica geral, acupuntura {% include icons/icon-map.html %}  Grelckstr. 9, 22529 Hamburgo. Tel: (040) 582 222
+- Dr. Edgar Bruno Jan: Clínico Geral {% include icons/icon-map.html %}  Grelckstr. 36, 22529 Hamburgo. Tel: (040) 581 231
+- Beatriz Helena de Cañas Sandberger {% include icons/icon-map.html %}  Burmester Straße 2 22305 Hamburg Tel. 040-29 41 65
+- Dr. med. Claudia Stern {% include icons/icon-map.html %}  Martin-Luther-Straße 12 20459 Hamburg Tel. 040-37 32 30  
+ {% include icons/icon-warning.html %}  Anteriormente havia uma auxiliar que falava portugues, atualmente nao a vejo mais, porem, mesmo com ingles ou alemao a recomendo
+- Dr. med. Stefan Siemund  {% include icons/icon-map.html %}  Plattenfoort 2 - 22159 Hamburg Tel. 040-644 87 48
 
 Cirurgiao Plastico:
 
@@ -85,10 +85,10 @@ Otorrino:
 
 Pediatra:
 
-- {% include icons/icon-check.html %} Dr. Achim Wüsthof - Fachärzte für Kinder und Jungenmedizin, Kinder-Endokrinologieu nd und Diabetologie  
+- {% include icons/icon-success.html %} Dr. Achim Wüsthof - Fachärzte für Kinder und Jungenmedizin, Kinder-Endokrinologieu nd und Diabetologie  
 {% include icons/icon-map.html %} Lornsenstrasse 4-6 22767 Hamburg {% include icons/icon-phone.html %} 040 30628830 {% include icons/icon-link.html %} [Website](http://www.endokrinologikum.com/)
     
-- {% include icons/icon-check.html %} Dra. med. Gabriela Almeida, Endocrinologia e diabetes infantil  
+- {% include icons/icon-success.html %} Dra. med. Gabriela Almeida, Endocrinologia e diabetes infantil  
 {% include icons/icon-map.html %} Neuenfelder Strasse 31 2 OG 21109 Hamburgo. {% include icons/icon-phone.html %} 040 181 884 8650 {% include icons/icon-link.html %} [Website](http://www.asklepios.de/agzharburg_Dr__med__Gabriela_Almeida.Asklepios)
 
 Psicologo:
