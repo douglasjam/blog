@@ -13,7 +13,7 @@ I use a VPS from [Linode](https://www.linode.com/?r=f548ff90f3ebf67ce61e811294d8
   
 This was a problem to me, to solve this in the first instance I decided to contract more one VPS but with this solution the cost was increasing, and my service does not require all capacity provided by Linode so it was a lost of money.
    
-I was already using Docker containers as hobby locally, then I decided to try use it inside my VPS also. And right now I'm completely satisfied with the results, my main VPS machine is very clean, just a SSH Server and Nginx to rewrite domains access to docker ports, and each docker containers are isolated with only the required dependencies and without any conflict. And the best if one container crash it is just recreate it uniquely and it is fixed, easily and fast.
+I was already using Docker containers as hobby locally, then I decided to try use it inside my VPS also. And right now I'm very satisfied with the results, my main VPS machine is very clean, just a SSH Server and Nginx to rewrite domains access to docker ports, and each docker containers are isolated with only the required dependencies and without any conflict. And the best if one container crash it is just recreate it uniquely and it is fixed, easily and fast.
     
 I'll write bellow the steps that I did in order to make this environment, you can do it locally, in your Linode, DigitalOcean or in any server that you have access.
 
