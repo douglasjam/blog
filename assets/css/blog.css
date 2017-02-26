@@ -4,7 +4,7 @@ html {
 
 body {
   background: #fff;
-  font: 18px/1.4 Helvetica, Arial, sans-serif;
+  font: 14px/1.4 Helvetica, Arial, sans-serif;
   color: #333;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -20,18 +20,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 25px;
 }
 h1 a {
   color: inherit;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 h4 {
