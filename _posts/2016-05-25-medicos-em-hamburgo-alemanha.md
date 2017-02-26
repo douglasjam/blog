@@ -85,16 +85,15 @@ Otorrino:
 
 Pediatra:
 
-- {% include icon-micro-left.html icon="glyphicon-check" text="Confirmado" %} Confirmado
-Dr. Achim Wüsthof - Fachärzte für Kinder und Jungenmedizin, Kinder-Endokrinologieu nd und Diabetologie
-{% include icon-micro-left.html icon="glyphicon-map-marker" %} Lornsenstrasse 4-6 22767 Hamburg
-{% include icon-micro-left.html icon="glyphicon-earphone" %} 040 30628830
-<a href="http://www.endokrinologikum.com/">Website</a>
+- {% include icons/icon-check.html %} Dr. Achim Wüsthof - Fachärzte für Kinder und Jungenmedizin, Kinder-Endokrinologieu nd und Diabetologie
+{% include icons/icon-map.html %} Lornsenstrasse 4-6 22767 Hamburg
+{% include icons/icon-phone.html %} 040 30628830
+{% include icons/icon-link.html %} <a href="http://www.endokrinologikum.com/">Website</a>
     
-- <span class="glyphicons glyphicons-check"></span> Dra. med. Gabriela Almeida, Endocrinologia e diabetes infantil
-{% include icon-micro-left.html icon="glyphicon-map-marker" %} Neuenfelder Strasse 31 2 OG 21109 Hamburgo.
-{% include icon-micro-left.html icon="glyphicon-earphone" %} 040  181 884 8650
-<a href="http://www.asklepios.de/agzharburg_Dr__med__Gabriela_Almeida.Asklepios">website</a>
+- {% include icons/icon-check.html %} Dra. med. Gabriela Almeida, Endocrinologia e diabetes infantil
+{% include icons/icon-map.html %} Neuenfelder Strasse 31 2 OG 21109 Hamburgo.
+{% include icons/icon-phone.html %} 040  181 884 8650
+{% include icons/icon-link.html %}<a href="http://www.asklepios.de/agzharburg_Dr__med__Gabriela_Almeida.Asklepios">website</a>
 
 Psicologo:
 
