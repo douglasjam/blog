@@ -70,7 +70,7 @@ Neurologista:
 
 Oftamologista:
 
-- Dr. Francis Hames: Oftalmologista. Lange Reihe 39, 20099 Hamburgo  {% include icons/icon-phone.html %} (040) 247 761
+- Dr. Francis Hames: Oftalmologista {% include icons/icon-map.html %}  Lange Reihe 39, 20099 Hamburgo  {% include icons/icon-phone.html %} (040) 247 761
 - Dra. Jana Paulsen: Oftalmologia {% include icons/icon-map.html %} Hofweg 57, 22085 Hamburgo {% include icons/icon-phone.html %} (040) 247 798
 - Dra. Alcimara Soares-Wulf: Oftalmologia {% include icons/icon-map.html %} Jarresstr. 7, 22303 Hamburgo  {% include icons/icon-phone.html %} (040) 181 215250
 - Dr. med. Christoph Tornow {% include icons/icon-map.html %} Osterstraße 120 20255 Hamburg  {% include icons/icon-phone.html %} 040-40 50 30
