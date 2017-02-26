@@ -81,7 +81,7 @@ Ortopedista:
 Otorrino:
 
 - Alexander Swiridoff - Pestalozzistrasse 24 22305 Hamburg Tel. 040-69 70 70-0
-> **Nota:** Por telefone, a recepcionista me informou que nao falam
+{% include icon-micro-left.html type="warning" icon="glyphicon-check" text="Confirmado" %} Por telefone, a recepcionista me informou que nao falam
 
 Pediatra:
 
