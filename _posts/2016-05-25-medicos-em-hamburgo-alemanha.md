@@ -97,7 +97,7 @@ Psicologo:
 
 Psiquiatra:
 
-- Alvaro Seligmann-Silva: Psiquiatria (crianças e adolescentes). Maurienstr. 15, 22305 Hamburgo {% include icons/icon-phone.html %} (040) 298 10020
+- Alvaro Seligmann-Silva: Psiquiatria (crianças e adolescentes) {% include icons/icon-map.html %} Maurienstr. 15, 22305 Hamburgo {% include icons/icon-phone.html %} (040) 298 10020
 - Dr. med. Petra Hütter - outdoor {% include icons/icon-map.html %} Mühlenweg 10  21073 Hamburg {% include icons/icon-phone.html %} 040-767 67 83
 
 
@@ -113,6 +113,13 @@ Urologista:
 - Dra. Elisbeth Spitzenpfeil - Urologista {% include icons/icon-map.html %} Eidelstedter Platz 6B, 22523 Hamburgo.  {% include icons/icon-phone.html %} (040) 570 4833. Fax: (040) 570 7077
 - Dr. med. Stefan Inndorf {% include icons/icon-map.html %} Schloßstraße 38  22041 Hamburg {% include icons/icon-phone.html %} 040-68 24 61
 
+
+Legenda:
+- {% include icons/icon-success.html %} Confirmado
+- {% include icons/icon-warning.html %} Nota
+- {% include icons/icon-phone.html %} Telefone
+- {% include icons/icon-map.html %} Endereço
+- {% include icons/icon-link.html %} Website
 
 Fontes:
 
