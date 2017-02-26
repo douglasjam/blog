@@ -80,15 +80,15 @@ Ortopedista:
 
 Otorrino:
 
-- Alexander Swiridoff - Pestalozzistrasse 24 22305 Hamburg Tel. 040-69 70 70-0
+- Alexander Swiridoff - Pestalozzistrasse 24 22305 Hamburg Tel. 040-69 70 70-0  
 {% include icons/icon-warning.html %} Por telefone, a recepcionista me informou que nao falam
 
 Pediatra:
 
-- {% include icons/icon-check.html %} Dr. Achim Wüsthof - Fachärzte für Kinder und Jungenmedizin, Kinder-Endokrinologieu nd und Diabetologie
- {% include icons/icon-map.html %} Lornsenstrasse 4-6 22767 Hamburg {% include icons/icon-phone.html %} 040 30628830 {% include icons/icon-link.html %} [Website](http://www.endokrinologikum.com/)
+- {% include icons/icon-check.html %} Dr. Achim Wüsthof - Fachärzte für Kinder und Jungenmedizin, Kinder-Endokrinologieu nd und Diabetologie  
+{% include icons/icon-map.html %} Lornsenstrasse 4-6 22767 Hamburg {% include icons/icon-phone.html %} 040 30628830 {% include icons/icon-link.html %} [Website](http://www.endokrinologikum.com/)
     
-- {% include icons/icon-check.html %} Dra. med. Gabriela Almeida, Endocrinologia e diabetes infantil
+- {% include icons/icon-check.html %} Dra. med. Gabriela Almeida, Endocrinologia e diabetes infantil  
 {% include icons/icon-map.html %} Neuenfelder Strasse 31 2 OG 21109 Hamburgo. {% include icons/icon-phone.html %} 040 181 884 8650 {% include icons/icon-link.html %} [Website](http://www.asklepios.de/agzharburg_Dr__med__Gabriela_Almeida.Asklepios)
 
 Psicologo:
