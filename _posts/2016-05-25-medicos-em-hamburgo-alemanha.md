@@ -6,6 +6,7 @@ figure: resources/img/medico-brasil.jpg
 figinpost: true
 category: Alemanha
 tags: [medicos, falam-portugues, alemanha, hamburgo, brasil, portugal, portugues]
+updated: 2017-02-26
 ---
 Morando na Alemanha nem sempre e fácil achar médicos que falam português, pois nada melhor do que tratar deste assunto complicado na sua língua
 nativa, porém sempre se encontra algum que fala ingles ou espanhol, portanto vou aqui listando os que encontrei pela internet ou recomendacoes. 

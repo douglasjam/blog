@@ -8,6 +8,7 @@ layout: default
   <div class="post-header">
     <span class="post-writed pull-left">
       Escrito em {{ page.date | date: " %d/%m/%Y" }}
+      {% if page.updated %} Atualizado em {{ page.updated | date: " %d/%m/%Y" }} {% endif %}
     </span>
 
     <span class="posts-labels pull-right">
