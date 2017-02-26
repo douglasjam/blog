@@ -1,8 +1,3 @@
-<div class="thumb-right">
-    <a href="{{ include.image }}" class="fluidbox" title="{{ include.caption }}">
-        {% picture {{ include.thumbsize }} {{ include.image }} alt="{{ include.caption }}" %}
-    </a>
-    <div class="thumb-caption">
-        {{ include.caption }}
-    </div>
-</div>
+<button type="button" class="btn btn-default" aria-label="Left Align">
+    <span class="glyphicon {{ include.icon }}" aria-hidden="true"></span>
+</button>

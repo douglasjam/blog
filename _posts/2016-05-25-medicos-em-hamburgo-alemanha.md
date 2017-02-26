@@ -85,7 +85,6 @@ Otorrino:
 
 Pediatra:
 
-
 - {% include icon-left.html icon="glyphicon-check" %} Confirmado
 Dr. Achim Wüsthof - Fachärzte für Kinder und Jungenmedizin, Kinder-Endokrinologieu nd und Diabetologie
 {% include icon-left.html icon="glyphicon-map" %} Lornsenstrasse 4-6 22767 Hamburg
@@ -104,7 +103,7 @@ Psicologo:
 
 Psiquiatra:
 
-- Alvaro Seligmann-Silva: Psiquiatria (ciranças e adolescentes). Maurienstr. 15, 22305 Hamburgo. Tel: (040) 298 10020
+- Alvaro Seligmann-Silva: Psiquiatria (crianças e adolescentes). Maurienstr. 15, 22305 Hamburgo. Tel: (040) 298 10020
 - Dr. med. Petra Hütter - outdoor Mühlenweg 10  21073 Hamburg Tel. 040-767 67 83
 
 
