@@ -115,6 +115,7 @@ Urologista:
 
 
 Legenda:
+
 - {% include icons/icon-success.html %} Confirmado
 - {% include icons/icon-warning.html %} Nota
 - {% include icons/icon-phone.html %} Telefone
