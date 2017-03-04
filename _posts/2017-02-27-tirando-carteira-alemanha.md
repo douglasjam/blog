@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Transferindo a carteira de motorista brasileira para a Alemanha
 published: true
 figure: resources/img/carteira/fuhreschein_deutschland.jpeg
