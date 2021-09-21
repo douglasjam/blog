@@ -1,1 +1,0 @@
-http://themes.jekyllrc.org/

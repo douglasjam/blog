@@ -1,1 +1,0 @@
-nohup sudo -u www-data QUEUE=notification php resque.php >> /path/to/your/logfile.log 2>&1 &

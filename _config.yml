@@ -1,52 +1,21 @@
-title: douglasjam
-description: Um rascunho do que acho sei
-author: Douglas J.A.M
-avatar: /assets/img/logo.png
-base_url:
-highlighter: rouge
-excerpt_separator: <!--more-->
-paginate: 5
-google_analytics: UA-78566019-1
-include: ['_pages']
-sass:
-  style: :expanded
-urls:
-  - text: github
-    url: https://github.com/douglasjam
-  - text: linkedin
-    url: https://www.linkedin.com/in/douglasjam
-  - text: instagram
-    url: https://www.instagram.com/douglasjam
-picture:
-  markup: "picture"
-  presets:
-    default:
-      ppi: [1, 1.5, 2]
-      source_large:
-        media: "(min-width: 240px)"
-        width: "125"
-      source_default:
-        width: "480"
-    thumb_index:
-      ppi: [1, 1.5, 2]
-      source_default:
-        width: "50"
-        height: "50"
-    thumb_post:
-      ppi: [1, 1.5, 2]
-      source_default:
-        width: "125"
-gems :
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-picture-tag
+title: Douglas Moreira
+description: Personal Blog
 
-# todo's
-# multilingual support
-# https://github.com/screeninteraction/jekyll-multiple-languages-plugin
-#excerpt
-#http://www.remotesynthesis.com/general/2015/10/02/advanced-jekyll-templates/
-#https://02dc74ce3e31e56a52ebcc845dca58e87283aabe.googledrive.com/host/0Bxbofwq0kd4ReUt2YWVOYmt3WVU/
-#https://github.com/robwierzbowski/jekyll-image-tag
-#{% image_tag src=page.thumbnail width="200" %}
+
+author: Douglas Moreira
+gravatar: https://www.gravatar.com/avatar/5d554af07043c1e196dc6eaa1b8b0aa5?size=192
+
+paginate: 5
+
+responsive_image:
+  template: _includes/srcset.html
+  sizes:
+    - width: 80
+    - width: 320
+    - width: 480
+    - width: 800
+
+plugins:
+  - jekyll-paginate
+  - jekyll-responsive-image
+  - jekyll-postcss

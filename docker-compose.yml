@@ -1,0 +1,13 @@
+version: "3.4"
+
+services:
+  sleep:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    command: sleep 30d
+    ports:
+      - "4000:4000"
+      - "8124:8124"
+    volumes:
+      - .:/srv/jekyll

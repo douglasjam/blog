@@ -1,1 +1,0 @@
-http://vitobotta.com/how-to-migrate-from-wordpress-to-jekyll/

@@ -1,0 +1,34 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jekyll:dev": "jekyll serve --incremental --watch",
+    "jekyll:build": "JEKYLL_ENV=production bundle exec jekyll build",
+    "css:dev": "postcss _sass/main.scss --output assets/css/style.css --watch",
+    "css:build": "NODE_ENV=production postcss _sass/main.scss --output assets/css/style.css",
+    "dev": "concurrently --kill-others \"npm run css:dev\" \"npm run jekyll:dev\"",
+    "build": "npm run css:build && npm run jekyll:build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasjam/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasjam/blog/issues"
+  },
+  "homepage": "https://github.com/douglasjam/blog#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "concurrently": "^6.2.1",
+    "cssnano": "^5.0.8",
+    "postcss": "^8.3.6",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.15"
+  },
+  "dependencies": {}
+}

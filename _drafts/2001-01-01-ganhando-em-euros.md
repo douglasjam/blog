@@ -1,1 +1,0 @@
-Ganhando em euro €, mitos e realidade
